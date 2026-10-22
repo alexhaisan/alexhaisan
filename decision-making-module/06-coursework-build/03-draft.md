@@ -1,38 +1,45 @@
 # 03 — Draft
 
 **Decision:** iPhone 17 Pro, bought on release day, £1,099 (256GB).
-**Status:** v4 — current. Built to the marking rubric (`../00-assessment/05-rubric-and-self-assessment.md`).
+**Status:** v5 — current. Rebuilt as flowing prose after analysing the first-class sample
+(`09-first-class-sample-analysis.md`).
 
 ---
 
-## Draft v4 · 248 words
+## Draft v5 · 283 words
 
-> **Instrumental Rational Choice Application Exercise**
+> The Psychology of Economic and Business Decisions (BUSI2051)
+> Instrumental Rational Choice application exercise
+> Word Count: 283
 >
-> **Decision:** On release day I bought an iPhone 17 Pro for £1,099. My old phone still
-> worked. Its battery did not hold charge.
+> On release day I bought an iPhone 17 Pro for £1,099, when a battery repair would have cost
+> £150. Elster's Instrumental Rational Choice (IRC) model shows where that decision parted
+> from its prediction.
 >
-> **Actions Available:** I weighed a battery replacement, official or aftermarket at £150;
-> waiting to see whether the iPhone 16 Pro fell in price; the standard iPhone 17; the Pro;
-> and a cheaper Samsung flagship, ruled out on switching costs.
+> Action requires listing every option available, and mine was unusually complete. Alongside
+> the Pro I weighed two battery repairs, official and aftermarket, a price drop on the iPhone
+> 16 Pro, and the standard iPhone 17. I ruled out a cheaper Samsung flagship on the real
+> costs of switching operating systems.
 >
-> **Preferences:** I wanted a working phone, and the battery was why I was thinking about it
-> at all. I also wanted the standing of owning the newest model. I wanted to avoid slowness
-> and parts of unknown provenance.
+> My preferences were a working phone, freedom from slowness and from parts of unknown
+> provenance, and the standing that comes with owning the newest model. Elster (2007) holds
+> that preferences cannot themselves be irrational, and wanting status is no exception.
+> Holding every one of them constant, the model still predicts the repair.
 >
-> **Beliefs/Evidence:** I expected the Pro to be fast and dependable, and it is. I also
-> expected the novelty to fade inside a week, because it has faded inside a week every
-> previous time. My evidence came from keynote presentations, pre-release rumour and
-> benchmark reviews.
+> My expectations were accurate too: I expected the Pro to be fast and dependable, and it is.
+> I also expected the novelty to fade inside a week, because it has faded inside a week every
+> previous time. Neither belief was bent by what I wanted.
 >
-> **Conclusion:** An instrumentally rational agent with these preferences, status included,
-> discounts a benefit that lasts a week and repairs the battery. I bought the Pro. My option
-> set was complete and both expectations proved accurate, which isolates the gap at Evidence.
-> Wanting the phone settled which question I researched: the material I gathered fixed my
+> The deviation sits at evidence. Over several months I gathered keynote presentations,
+> pre-release rumour and benchmark reviews, every piece of which concerned what the phone
+> could do. Wanting it settled which question I asked. The search therefore fixed my
 > expectation of performance precisely, and left untouched the expectation that actually
-> decided the case. Elster requires evidence to result from an optimal investment in
-> information gathering, yet concedes that optimum is indeterminate (2007, pp. 191, 208). The
-> model cannot tell me how long I should have looked, only that I looked in the wrong place.
+> decided the case.
+>
+> Elster requires evidence to result from an optimal investment in information gathering, yet
+> concedes that this optimum is indeterminate (2007, pp. 191, 208). The model can show that I
+> searched in the wrong place, but not how long I should have searched. That limitation is
+> the model's rather than mine.
 >
 > **Reference**
 > Elster, J. (2007) *Explaining Social Behavior: More Nuts and Bolts for the Social
@@ -40,65 +47,61 @@
 
 ---
 
-## Arithmetic
+## Arithmetic and rhythm
 
-| Section | Words |
-|---|---|
-| Decision | 22 |
-| Actions Available | 37 |
-| Preferences | 37 |
-| Beliefs/Evidence | 43 |
-| Conclusion | 109 |
-| **Body** | **248** |
-| + headings and title | 11 |
-| + reference | 18 |
-| **Worst case, everything counted** | **277** |
+| Paragraph | Words | Sentences | Lengths |
+|---|---|---|---|
+| Opening | 33 | 2 | 19, 14 |
+| Action | 50 | 3 | 11, 24, 15 |
+| Preferences | 52 | 3 | 25, 15, 12 |
+| Expectations | 45 | 3 | 17, 20, 8 |
+| Evidence | 53 | 4 | 5, 22, 7, 19 |
+| Conclusion | 50 | 3 | 23, 19, 8 |
+| **Body** | **283** | 18 | |
 
-### Conclusion sentence lengths
-**20 / 4 / 16 / 28 / 22 / 19** — spread of 4 to 28.
+| | v5 | First-class sample |
+|---|---|---|
+| Body words | 283 | 295 |
+| Sentences | 18 | 18 |
+| Range | 5–25 | 7–23 |
+| Mean | 15.7 | 16.4 |
+| Std dev | ~6 | 3.6 |
+
+Close enough on profile. Slightly more varied, because this piece has pivots the sample does
+not: *"The deviation sits at evidence"* and *"Wanting it settled which question I asked"* both
+earn their shortness.
+
+> **If the reference list counts** toward the 300, drop it. The citation is optional for this
+> assessment, and 283 body words leaves no room for 18 more. Keep the in-text *(2007, pp. 191,
+> 208)* either way.
 
 ---
 
-## What v4 adds, and why
+## Why v5 looks different from v4
 
-Both changes come from grading v3 against the rubric
-([`../00-assessment/05-rubric-and-self-assessment.md`](../00-assessment/05-rubric-and-self-assessment.md)).
+The first-class sample is **flowing prose**, not labelled headings. Full analysis in
+[`09-first-class-sample-analysis.md`](09-first-class-sample-analysis.md). Four changes
+followed:
 
-### ① A named weakness of IRC · Trait 2, the main cap
+### ① Prose, with the component named in each opening sentence
+*"Action requires…"* · *"My preferences were…"* · *"My expectations were…"* · *"The deviation
+sits at evidence"*. The marker never hunts, and the argument connects across paragraphs in a
+way boxes cannot.
 
-v3 showed IRC failing to predict Alex's behaviour. It never said what that revealed about
-**the model**, and Trait 2's 70-79 band requires *"thorough comprehension of **critiques of
-IRC**."*
+### ② Used the allowance
+248 → 283 words. The extra went to Action and Preferences, which is where this piece is
+strongest and the sample is weakest.
 
-> *"Elster requires evidence to result from an optimal investment in information gathering,
-> yet concedes that optimum is **indeterminate** (2007, pp. 191, 208). The model cannot tell
-> me how long I should have looked, only that I looked in the wrong place."*
+### ③ Header block with declared word count
+Copied straight from the sample.
 
-The critique is Elster's own (pp. 206-209): between searching too little and too much lies an
-interval within which *"no choice the agent makes… can be characterized as irrational."* So
-requirement (iii) is under-specified. It can catch misdirected search; it cannot price
-sufficient search.
+### ④ Calmer rhythm
+v4 ran 4 to 28 with a mean near 15. The sample runs 7 to 23 with a standard deviation of 3.6.
+Academic prose is steadier than I had been advising; the short sentence works because it is
+**rare**, not because it is frequent.
 
-Using the set reading against itself costs no extra credibility and ties the critique to the
-exact component where the deviation sits, which is what the band asks for.
-
-### ② A second interaction · Trait 1
-
-v3 showed one chain. v4 shows the same component feeding **two** expectations with different
-success:
-
-> *"the material I gathered fixed my expectation of performance precisely, and left untouched
-> the expectation that actually decided the case"*
-
-That is **Evidence → Expectations**, alongside the existing **Preferences → Evidence**. Two
-links, moving toward Trait 1's *"how each component interacts."*
-
-### Cuts that paid for them
-- *Actions Available*: *"an official Apple repair or a cheaper aftermarket one"* → *"official
-  or aftermarket"*. Saved 12.
-- *Preferences*: reordered and tightened. Saved 4.
-- *Conclusion*: the old final clause *"Mine was substantial, and aimed at the wrong
-  question"* is absorbed into the new critique sentence, which says the same thing and more.
+Everything v4 gained is retained: the sourced critique of IRC's indeterminacy, and both
+interactions.
 
 ---
 
@@ -107,9 +110,10 @@ links, moving toward Trait 1's *"how each component interacts."*
 | Version | Words | Change |
 |---|---|---|
 | v1 | 251 | First draft. Wrongly claimed official Apple repair *"never entered the set"*. |
-| v2 | 258 | **Correction:** both repair routes were known. Conclusion rebuilt around elimination. Citation added. |
-| v3 | 250 | Restored the interaction sentence v2 had dropped; cut a duplication it exposed. |
-| **v4** | **248** | **Added a named critique of IRC and a second interaction.** Projected ≈63 → ≈70. |
+| v2 | 258 | **Correction:** both repair routes were known. Conclusion rebuilt around elimination. |
+| v3 | 250 | Restored the interaction sentence v2 dropped; cut a duplication it exposed. |
+| v4 | 248 | Added a named critique of IRC and a second interaction. Projected ≈63 → ≈70. |
+| **v5** | **283** | **Rebuilt as flowing prose** after the first-class sample. Allowance used, rhythm calmed, header added. |
 
 ---
 
