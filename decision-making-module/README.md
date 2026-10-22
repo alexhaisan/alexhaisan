@@ -24,6 +24,9 @@ Details: [`00-assessment/00-module-profile.md`](00-assessment/00-module-profile.
 | If you want to… | Go to |
 |---|---|
 | **See what a submission looks like** (4 real exemplars) | [`06-coursework-build/00-the-format-and-exemplars.md`](06-coursework-build/00-the-format-and-exemplars.md) |
+| **Know what the marker is looking for** | [`00-assessment/04-marking-criteria.md`](00-assessment/04-marking-criteria.md) |
+| Write about a **preference shift** (⚠️ read first) | [`01-core-theory/05-preferences-the-hard-case.md`](01-core-theory/05-preferences-the-hard-case.md) |
+| Look up a strategic game (Dec essay) | [`10-strategic-games/01-games-and-social-preferences.md`](10-strategic-games/01-games-and-social-preferences.md) |
 | Find a verified quote with a page/paragraph locator | [`07-references/03-quote-ledger.md`](07-references/03-quote-ledger.md) |
 | Critically evaluate experiments (December essay) | [`09-research-methods/01-methods-of-behavioural-economics.md`](09-research-methods/01-methods-of-behavioural-economics.md) |
 | Know the deadlines and how the two assessments relate | [`00-assessment/00-module-profile.md`](00-assessment/00-module-profile.md) |
@@ -77,7 +80,12 @@ So your deviation cannot be *what you wanted*. It must sit at one of the four co
 sites: a restricted **option set**, an inconsistently resolved **preference trade-off**,
 an **expectation** not supported by evidence, or non-optimal **evidence** search.
 
-### 2. Outcome is not process
+### 2. The marks are in the arrows, not the boxes
+Lecture 3 slide 17: *"To what extent have they used **components and interactions between
+them**?"* Four labelled boxes is the floor. Naming one relationship — Evidence→Expectations,
+or the blocked Preferences→Expectations — is the clearest way to hit this.
+
+### 3. Outcome is not process
 *"Consequences of a decision cannot explain it. Only the mental states that **precede** the
 decision enable us to explain the action... rather than to characterize it as useful or
 beneficial from the point of view of an external observer **or of the agent at a later
@@ -86,7 +94,7 @@ time**"* (Elster, p. 209).
 "It turned out badly" and "I regret it now" are both the later self's view. Neither is a
 deviation.
 
-### 3. Doing the right thing by fluke isn't rational either
+### 4. Doing the right thing by fluke isn't rational either
 The arrows in Figure 11.1 carry **causality** as well as optimality: *"the action should be
 **caused by** the beliefs that make it a rational one; it is not enough to do the right thing
 by fluke"* (p. 191).
@@ -102,6 +110,7 @@ by fluke"* (p. 191).
 02-deviations-and-theories/ Behavioural theories — PROVISIONAL, for the December essay.
 03-experiments/             Twelve canonical experiments, quick-reference.
 09-research-methods/        Lab / field / survey methods and how to critique them.
+10-strategic-games/         Public Good, Ultimatum, Dictator, Trust + social preferences.
 04-course-materials/        Week 1 processed. Intake log tracks what's been taught.
 05-further-reading/         Reading notes + per-source analysis.
 06-coursework-build/        Decision screening → word budget → draft.
@@ -125,18 +134,18 @@ by fluke"* (p. 191).
 | ✅ Four exemplar assessments analysed — **submission format settled** | |
 | ✅ All four Week 2 papers read in full, with page/paragraph locators | |
 | ✅ Quote ledger built (`07-references/03-quote-ledger.md`) | |
+| ✅ Lectures 3–4 processed — **marking criteria and per-component guidance captured** | |
+| ✅ Camerer & Fehr, Kosfeld et al., Xiao & Houser read with locators | |
+| ✅ Earlier advice on preference shifts **corrected** against L3 slide 16 | |
 | ⬜ **Decision to analyse — not yet chosen** | **blocking** |
 | ⬜ Draft | |
 | ⬜ "The compassion experiment" (L2 slide 11) not identified | minor |
 
 ### Next three actions
 
-1. **Pick 2–3 candidate decisions and map all four components — before the seminar.** The
-   Moodle task is explicit that the seminar is worth more if you arrive with work done.
-2. **Screen them** against L2 slide 5's warnings and the Deviation Test in
-   `06-coursework-build/01-decision-candidates.md`.
-3. **Draft to the exemplar format** — labelled headings, ~230–270 words, and close on
-   *which component has the biggest gap*.
+1. **Answer the six questions** in `06-coursework-build/05-purchase-decision-worksheet.md`.
+2. **Draft to the exemplar format** — labelled headings, ~230–270 words.
+3. **Close on one component and one interaction** — L2 slide 6 and L3 slide 17.
 
 ---
 

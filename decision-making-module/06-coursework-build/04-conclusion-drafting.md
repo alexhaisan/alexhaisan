@@ -18,6 +18,20 @@
 | **3** | **Name THE component with the biggest gap** | L2 slide 6: *"**which component has the biggest difference**…?"* — **singular**. None of the four exemplars does this. |
 | **4** | **Name the mechanism** | Not "I was irrational" but *wishful thinking* / *restricted option set* / *evidence over-weighted* / *not instrumental*. Exemplars 1, 2 and 4 do this; exemplar 3 doesn't, and it's the weakest. |
 
+### 🔑 Move 3b — name an INTERACTION, not just a component
+
+**Added after Lecture 3.** Slide 17's marking criteria ask: *"To what extent have they used
+components **AND INTERACTIONS BETWEEN THEM**?"*
+
+Four labelled boxes is the floor. The marks are in the arrows:
+
+> *"The failure is not in any single component but in the link between them: my preference
+> for ___ shaped my expectation that ___, which the model excludes — beliefs may be reached
+> through evidence, never directly from desires (Elster, 2007, p. 205)."*
+
+~30 words, and it is the clearest way to hit the second criterion. Full detail:
+[`../00-assessment/04-marking-criteria.md`](../00-assessment/04-marking-criteria.md).
+
 **Optional move 5 — one clause of evaluation.** Costs ~15 words, lifts the register:
 > *"This does not make the model wrong: it is the benchmark that makes the gap measurable
 > (Croson and Gächter, 2010, p. 123)."*
@@ -108,10 +122,16 @@ L2 slide 5: *"**'I went against my preferences' is not a compelling argument**"*
 | "I really wanted X but gave in to Y" | "I wanted both X and Y. IRC requires the trade-off to be made on expected utility; mine was made on ___" |
 | "My preference was irrational" | *(never — L1 slide 25: preferences cannot be intrinsically irrational)* |
 
-**And the one that catches people out:** being tired, stressed, hungry or emotional is **not**
-a deviation. Elster (2007, p. 193): an agent *"under the influence of emotion or drugs…
-acts rationally."* If that's your story, the failure has to be relocated to Action,
-Expectations or Evidence.
+**⚠️ Corrected after Lecture 3.** I previously said being tired, stressed or emotional was
+**not** a deviation, citing Elster (2007, p. 193). **L3 slide 16 explicitly invites it:**
+*"look for situations where preferences shift or change due to circumstances, emotion, or
+long term vs short term."*
+
+Both can hold, but the write-up has to be careful: a preference shift is a **symptom**, and
+what you report is its **cause** — usually an illegal arrow into Preferences, a short-term
+ranking displacing a long-term one, or an expectation that shifted rather than a preference.
+Read [`../01-core-theory/05-preferences-the-hard-case.md`](../01-core-theory/05-preferences-the-hard-case.md)
+before taking this route.
 
 ---
 
@@ -164,6 +184,7 @@ locators are in `../07-references/03-quote-ledger.md`.
 - [ ] Does it say what I actually did?
 - [ ] Does it name **one** component as the biggest gap?
 - [ ] Does it name a **mechanism**, not just assert irrationality?
+- [ ] Does it name at least one **interaction between components** (L3 slide 17)?
 - [ ] Have I avoided "I went against my preferences"?
 - [ ] Have I avoided "it turned out badly" and "I regret it now"?
 - [ ] Would a marker know, from the last sentence alone, what broke?

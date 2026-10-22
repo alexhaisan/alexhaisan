@@ -80,6 +80,35 @@
 | GR-02 | *"penalties are usually introduced into an incomplete contract, social or private. They may change the information that agents have, and therefore the effect on behavior may be opposite of that expected."* | Gneezy and Rustichini (2000, p. 1, Abstract) | ✅ |
 | GR-03 | *"Removing the fine did not affect the number of late-coming parents relative to the time of the fine."* | Gneezy and Rustichini (2000, p. 8, §III, Fact 2) | ✅ |
 
+## For the marking criteria and where to look (Lecture 3)
+
+| ID | Quote | Source | ✅ |
+|---|---|---|---|
+| L3-01 | *"Action – Look for decisions where you have restricted choices too early, where you were overwhelmed by choice, or where you didn't consider a good potential choice."* | Larner, L3 slide 16 | ✅ |
+| L3-02 | *"Preferences – Rarely irrational, but look for situations where preferences shift or change due to circumstances, emotion, or long term vs short term"* | Larner, L3 slide 16 | ✅ |
+| L3-03 | *"Expectations – Beware of hindsight bias, but look out for decisions where you didn't think things through properly, or where you were biased in the way you evaluated evidence"* | Larner, L3 slide 16 | ✅ |
+| L3-04 | *"To what extent have they used **components and interactions between them** to do so?"* | Larner, L3 slide 17 | ✅ |
+| L3-05 | *"**Instrumental** implies subjects are only concerned with **outcomes** – how those outcomes came to be is irrelevant"* | Larner, L3 slide 6 = L4 slide 4 | ✅ |
+
+## For social preferences and strategic games
+
+| ID | Quote | Source | ✅ |
+|---|---|---|---|
+| CF-01 | *"Altruism… means that an actor takes costly actions to increase the payoff of another actor, irrespective of the other actor's previous actions. Altruism thus represents unconditional kindness while reciprocity means non-selfish behavior that is conditioned on the previous actions of the other actor."* | Camerer and Fehr (2002, p. 2, §1, ¶2) | ✅ |
+| CF-02 | *"people are willing to reward friendly actions and to punish hostile actions although the reward or punishment causes a net reduction in the material payoff of those who reward or punish."* | Camerer and Fehr (2002, p. 2, §1, ¶2) | ✅ |
+| CF-03 | *"about half the subjects are 'conditional cooperators'… Conditional cooperation is not compatible with pure self-interest, but consistent with a preference for behaving reciprocally."* | Camerer and Fehr (2002, p. 11, ¶1) | ✅ |
+| CF-04 | *"The experimental evidence completely rejects this prediction."* (self-interest predicting zero punishment) | Camerer and Fehr (2002, p. 12, ¶2) | ✅ |
+| XH-01 | *"costly punishment is used by responders to express emotions and that responders are less likely to use costly punishment and instead accept unfair outcomes when they have a less expensive alternative mechanism to express negative emotions."* | Xiao and Houser (2005, p. 7400, col. 1, ¶3) | ✅ |
+| KO-01 | *"the effect of oxytocin on trust is not due to a general increase in the readiness to bear risks. On the contrary, oxytocin specifically affects an individual's willingness to accept social risks arising through interpersonal interactions."* | Kosfeld et al. (2005, p. 673, Abstract) | ✅ |
+| KO-02 | *"the investors given oxytocin show more trusting behaviour but do not hold significantly different beliefs about the trustworthiness of others."* | Kosfeld et al. (2005, p. 675, col. 1, ¶3) | ✅ |
+
+## For defending lab experiments (pairs with Binmore)
+
+| ID | Quote | Source | ✅ |
+|---|---|---|---|
+| CF-05 | *"This stark situation is not used because it is lifelike (it's not). It is used as a benchmark from which the effects of playing repeatedly, communicating, knowing who the other player is, and so forth, can be measured by comparison."* | Camerer and Fehr (2002, p. 4, §Conventions, ¶1) | ✅ |
+| CF-06 | *"abstract language is used not because it is lifelike, but as a benchmark against which the effects of concrete descriptions can be measured."* | Camerer and Fehr (2002, p. 5, ¶2) | ✅ |
+
 ---
 
 ## ⚠️ Not yet verified — do not cite
@@ -92,3 +121,6 @@ Everything in `02-bibliography.md` marked `UNVERIFIED`, plus:
 | Robbins' definition of economics (L1 slide 13) | Slide cites "Robbins" with no year or title |
 | Elster (1989) ch. 3 | Reading list says ch. 3; chapter numbering not confirmed |
 | Plous ch. 7; Baron chs. 3 & 10; Wilkinson ch. 1 | Chapter contents not seen — see `../05-further-reading/02-source-analysis.md` |
+| **Herrmann, Thöni and Gächter (2008)** antisocial punishment, incl. the city results | Known only from the **video transcript**, not the *Science* paper. Verify before citing. |
+| Poundstone (1993) — source of L3 slide 10's games | Cited on the slide without a full reference |
+| Fehr and Gächter (2000); Sally (1995); Marwell and Ames (1981); Isaac et al (1985); Andreoni (1988); Berg et al (1995); Forsythe et al (1994); Bohnet and Frey (1999) | Cited on slides and in Camerer and Fehr; **primary papers not read** |

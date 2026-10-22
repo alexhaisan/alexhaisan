@@ -30,6 +30,39 @@ model doesn't give you. **List them flat**, then show the trade-off.
 
 ---
 
+## 🔑 Lecture 3, slide 16 — the lecturer's own hunting guide
+
+Headed *Initial Assessment*. This is where to look, per component:
+
+> - **Action** – *"Look for decisions where you have **restricted choices too early**, where
+>   you were **overwhelmed by choice**, or where you **didn't consider a good potential
+>   choice**. How are you restricting choices?"*
+> - **Preferences** – *"**Rarely irrational**, but look for situations where **preferences
+>   shift or change due to circumstances, emotion, or long term vs short term**"*
+> - **Expectations** – *"**Beware of hindsight bias**, but look out for decisions where you
+>   **didn't think things through properly**, or where you were **biased in the way you
+>   evaluated evidence**"*
+
+### ⚠️ This corrects advice I gave you earlier
+
+I previously said that "I was tired/stressed/emotional and wanted something different" was
+**disqualifying**, on the strength of Elster (2007, p. 193). **The lecturer explicitly
+invites it** — *"preferences shift or change due to circumstances, emotion, or long term vs
+short term."*
+
+The two can be reconciled, but only if you write it carefully. See
+[`../01-core-theory/05-preferences-the-hard-case.md`](../01-core-theory/05-preferences-the-hard-case.md)
+before using a preference-shift decision. Short version: **a shift is where to look, not what
+to report.** Find what caused it and report that.
+
+### Also note: "beware of hindsight bias"
+
+Slide 16's warning on Expectations. Judging your past belief by what you now know is exactly
+what Elster rules out at p. 209 — the later self is *"an external observer."* State what the
+evidence supported **at the time**, not what turned out to be true.
+
+---
+
 ## Why this is the highest-leverage choice
 
 The brief asks for a decision *"which does not follow this model."* Three-quarters of the
@@ -152,7 +185,8 @@ Because the counterfactual is airtight and the theory is unambiguous:
 | "I didn't have enough information" | A constraint, unless search itself was non-optimal |
 | "I helped someone at a cost to myself" | Other-regarding preferences are admissible — Elster (2007, p. 193): *"the confusion of rationality and egoism is a crude error"* |
 | **"I went against my preferences"** | **L2 slide 5: *"not a compelling argument"*** |
-| "I was angry/tired/drunk and wanted something different" | Elster (2007, p. 193): such an agent *"acts rationally"*. Temporary preference change is allowed. |
+| "I was angry/tired/drunk and wanted something different" — *stated bare* | Elster (2007, p. 193): such an agent *"acts rationally."* ⚠️ But L3 slide 16 says **look there** — see `../01-core-theory/05-preferences-the-hard-case.md`. The shift is a symptom; report its cause. |
+| "It turned out badly, so my belief was wrong" | **Hindsight bias** — L3 slide 16 warns against this explicitly |
 | Anything vague or habitual ("I procrastinate") | Not a decision. Needs to be one identifiable choice. |
 
 ---

@@ -36,6 +36,27 @@ to cite; the rest of this file is provisional background.
 
 ---
 
+## ⭐⭐ Weeks 3–4 — VERIFIED (read in the original)
+
+| Status | Reference |
+|---|---|
+| ✅ **VERIFIED** | Kosfeld, M., Heinrichs, M., Zak, P.J., Fischbacher, U. and Fehr, E. (2005) 'Oxytocin increases trust in humans', *Nature*, 435(7042), pp. 673–676. doi: 10.1038/nature03701. |
+| ✅ **VERIFIED** | Xiao, E. and Houser, D. (2005) 'Emotion expression in human punishment behavior', *Proceedings of the National Academy of Sciences*, 102(20), pp. 7398–7401. doi: 10.1073/pnas.0502399102. |
+| ✅ **VERIFIED** (pp. 1–14) | Camerer, C.F. and Fehr, E. (2002) *Measuring social norms and preferences using experimental games: a guide for social scientists*. Working Paper No. 97. Zurich: Institute for Empirical Research in Economics, University of Zurich. |
+
+> ⚠️ Camerer and Fehr carries **two dates** — May 2001 on the title page, January 2002 on the
+> working-paper series — and was later published as a chapter in Henrich et al. (eds.)
+> *Foundations of Human Sociality*. Cite the version you actually used.
+
+### Cited in L3/L4 but **not read** — do not cite from the slide alone
+Poundstone (1993) · Marwell and Ames (1981) · Isaac et al (1985) · Andreoni (1988) ·
+Sally (1995) · Fehr and Gächter (2000) · Roth et al (1991) · Hoffman et al (1994, 1996) ·
+Cameron (1999) · Forsythe et al (1994) · Eckel and Grossman (1996, 1998) ·
+Bohnet and Frey (1999) · Berg et al (1995) · Bolle (1998) · Buchan and Croson (1999) ·
+Fehr and Schmidt (1999) · Rabin (1993) · Herrmann, Thöni and Gächter (2008)
+
+---
+
 ## ⭐⭐ Week 2 — VERIFIED (read in the original)
 
 Read in full from the supplied PDFs, 22 Oct 2026. **These are citable now.** Quotes with

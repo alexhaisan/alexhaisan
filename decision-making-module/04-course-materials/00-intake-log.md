@@ -11,6 +11,11 @@
 | 7 | 2026-10-22 | Croson & Gächter (2010) → `../05-further-reading/notes/croson-gachter-2010.md` | Journal article, pp. 122–131 | W2 additional | ✅ | Models wrong but useful; scope–accuracy frontier; Ten Commandments. Gächter is Nottingham CeDEx |
 | 8 | 2026-10-22 | Gneezy & Rustichini (2000) → `../05-further-reading/notes/gneezy-rustichini-2000.md` | Journal article, pp. 1–18 | W2 additional | ✅ | Field experiment; 10 centres, 20 weeks; three Facts; incomplete contracts |
 | 9 | 2026-10-22 | Bertrand & Mullainathan (2001) → `../05-further-reading/notes/bertrand-mullainathan-2001.md` | Journal article, pp. 67–72 | W2 additional | ✅ | Evidence behind L2 slide 15; limits of self-report |
+| 10 | 2026-10-22 | `lectures/L3.pptx` + `L4.pptx` → notes at `lectures/W3-W4-strategic-decision-making.md` | Lecture decks, 17 + 18 slides | W3–4 — Strategic Decision Making | ✅ | **L3 s16 (where to look) and s17 (marking criteria)** — both change coursework advice |
+| 11 | 2026-10-22 | Camerer & Fehr (2002) → `../05-further-reading/notes/camerer-fehr-2002.md` | Working paper, pp. 1–14 of 41 | W3–4 | ✅ | Table 1: seven games. Altruism vs reciprocity. Benchmark defence of lab abstraction |
+| 12 | 2026-10-22 | Kosfeld et al (2005) → `../05-further-reading/notes/kosfeld-2005.md` | *Nature* 435, pp. 673–676 | W3–4 | ✅ | Oxytocin and the Trust Game. **Changed action without changing beliefs** |
+| 13 | 2026-10-22 | Xiao & Houser (2005) → `../05-further-reading/notes/xiao-houser-2005.md` | *PNAS* 102(20), pp. 7398–7401 | W3–4 | ✅ | **This is L4 slide 11's "Emotion Ultimatum Game"** |
+| 14 | 2026-10-22 | Public Goods Game video (Joshua Greene) — transcript supplied | Video transcript | W3–4 | ✅ | Rand's time-pressure work; Herrmann, Thöni & Gächter (2008) antisocial punishment. ⚠️ transcript only |
 
 > Source PDFs/PPTX were supplied as session uploads and are **not committed** to the
 > repository (copyright: the Hargreaves Heap scan is a CLA licensed digital copy for
@@ -31,6 +36,13 @@ experiment which we have studied on this module."*
 | 2 | **Surveys** — hypothetical bias, framing/order effects, social desirability | ✅ |
 | 2 | **Gneezy & Rustichini, 'A Fine Is a Price'** — now a set/additional reading | ✅ |
 | 2 | "The compassion experiment" (L2 slide 11 video) | ⬜ **not yet identified** |
+| 3–4 | **Game theory** — dominant strategies, Nash equilibria; Stag Hunt, Chicken, Battle of the Sexes, Prisoners' Dilemma | ✅ |
+| 3 | **Public Good Game** (+ punishment, communication) | ✅ |
+| 4 | **Ultimatum Game** + Earnt, Emotion, Computer and Taking variants | ✅ |
+| 4 | **Dictator Game** | ✅ |
+| 4 | **Trust Game** | ✅ |
+| 4 | **Inequality aversion** (Fehr and Schmidt 1999); **Reciprocity** (Rabin 1993) | ✅ |
+| 3 | Golden Balls; **Dollar Auction** (L4 s5) | ✅ |
 | 1 | Elster's three optimality requirements | ✅ |
 | 1 | Expected utility / the 5-step IRC procedure | ✅ |
 | 1 | Hume — "reason is slave to the passions" | ✅ |
@@ -66,6 +78,9 @@ experiment which we have studied on this module."*
 - [x] ~~Confirm the intermediate deadline~~ → **26 Oct 3pm, Moodle** (L2 slide 17)
 - [x] ~~Confirm the submission format~~ → **settled by the four exemplars**
 - [ ] **Identify "the compassion experiment"** (L2 slide 11)
+- [ ] One more lecture still to come
+- [ ] Verify Herrmann, Thöni & Gächter (2008) against the *Science* paper — currently transcript-only
+- [ ] Read Camerer & Fehr pp. 15–41 for the December essay
 - [ ] **Confirm the Week 2 set reading** — Binmore (1999) is the best fit but not stated
 - [ ] Moodle: the AI-use details L2 slide 17 points to
 - [ ] Module handbook — word-count tolerance, rubric
