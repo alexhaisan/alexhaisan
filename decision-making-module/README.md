@@ -25,6 +25,9 @@ Details: [`00-assessment/00-module-profile.md`](00-assessment/00-module-profile.
 |---|---|
 | **See what a submission looks like** (4 real exemplars) | [`06-coursework-build/00-the-format-and-exemplars.md`](06-coursework-build/00-the-format-and-exemplars.md) |
 | **Know what the marker is looking for** | [`00-assessment/04-marking-criteria.md`](00-assessment/04-marking-criteria.md) |
+| **Write the piece** — the scaffold, slot by slot | [`06-coursework-build/08-the-scaffold.md`](06-coursework-build/08-the-scaffold.md) |
+| **Get the prose right** — rhythm, British English, AI tells | [`06-coursework-build/07-prose-and-style.md`](06-coursework-build/07-prose-and-style.md) |
+| See the full sequence to submission | [`06-coursework-build/06-path-to-submission.md`](06-coursework-build/06-path-to-submission.md) |
 | Write about a **preference shift** (⚠️ read first) | [`01-core-theory/05-preferences-the-hard-case.md`](01-core-theory/05-preferences-the-hard-case.md) |
 | Look up a strategic game (Dec essay) | [`10-strategic-games/01-games-and-social-preferences.md`](10-strategic-games/01-games-and-social-preferences.md) |
 | Find a verified quote with a page/paragraph locator | [`07-references/03-quote-ledger.md`](07-references/03-quote-ledger.md) |
