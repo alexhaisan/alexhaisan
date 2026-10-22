@@ -1,7 +1,32 @@
 # 01 — Candidate Decision Selection
 
-> **Do this before writing anything.** The decision you choose determines whether the piece
-> can score well. A weak decision caps the mark no matter how good the theory section is.
+> **Do this before writing anything**, and before the Week 2 seminar — the Moodle task says:
+> *"The seminar this week will give you the chance to share the work you have done so far and
+> get feedback, so the more work you can do before then, the more you will get out of it."*
+>
+> Read [`00-the-format-and-exemplars.md`](00-the-format-and-exemplars.md) first — it shows
+> what four real submissions look like.
+
+---
+
+## 🚨 The two warnings from Lecture 2, slide 5
+
+Before you screen anything, internalise these. They disqualify most first attempts.
+
+### 1. *"'I went against my preferences' is not a compelling argument"*
+
+You hold **conflicting** preferences, so **every** choice goes against one of them. Saying
+you acted against a preference describes a trade-off, not a failure. Exemplar 3 wanted a
+kebab *and* not to waste food — whichever he chose, one preference lost.
+
+The deviation must be in **how** the trade-off was made, or in the **Action**,
+**Expectations** or **Evidence** components. Never in the bare fact that a preference lost.
+
+### 2. *"Avoid privileging some preferences over others"*
+
+Don't quietly promote one preference to "the real one" and demote the rest to temptation.
+"I *really* wanted to save money but gave in to wanting a kebab" smuggles in a ranking the
+model doesn't give you. **List them flat**, then show the trade-off.
 
 ---
 
@@ -20,7 +45,19 @@ A decision that is genuinely a *preference* fails all three at once.
 
 ## Step 1 — Brainstorm (aim for 6–8; don't filter yet)
 
-Prompts to jog memory — think over the last 1–3 months:
+### The lecturer's own suggestions (L2 slides 18–20)
+
+| Scenario | The IRC prediction it breaks |
+|---|---|
+| **Consumer behaviour** — caring about the environment but buying fast fashion | *"IRC predicts consumers are aware of the consequences of their purchases"* — a gap between stated values and purchases. Slide 18 asks: *"How does this fit with evidence/expectations?"* |
+| **Product image / branding** | *"IRC predicts humans will update expectations in accordance with evidence, so **only product information is relevant**"* — yet branding moves you |
+| Free-riding in teams · Stock market bubbles · Corporate culture · Consumer addictions · Mental accounting · Product pricing/menus · **Subscription products** | Slide 20 |
+
+> Both worked examples put the deviation at **Evidence→Expectations**. That is where the
+> lecturer's attention is, and it's the component the exemplars handle worst — so it's where
+> a strong answer has most room.
+
+### Prompts to jog memory — the last 1–3 months:
 
 | Domain | Prompts |
 |---|---|
@@ -57,10 +94,13 @@ Deviation Test — tick at least one:
   [ ] Search failure (how: ______)
 
 Elster condition(s) violated:  (i) / (ii) / (iii)
-Candidate theory:
-Is that theory on the module?   YES / NO / UNKNOWN
-Specific, implementable fix for component D:
+WHICH COMPONENT HAS THE BIGGEST GAP?  (L2 slide 6 — answer in one sentence)
 ```
+
+> That last line is the one none of the four exemplars answers. Lecture 2 slide 6 asks
+> *"**which component has the biggest difference** between how a rational decision maker
+> behaves and how the human decision-maker in this example behaved?"* — singular. Build your
+> conclusion on it.
 
 ---
 
@@ -110,7 +150,9 @@ Because the counterfactual is airtight and the theory is unambiguous:
 | "I took the safe option" | Risk aversion is standard EUT. |
 | "It turned out badly" | **Outcome ≠ process.** The most common failure in this assessment. |
 | "I didn't have enough information" | A constraint, unless search itself was non-optimal |
-| "I helped someone at a cost to myself" | Other-regarding preferences are admissible under thin rationality |
+| "I helped someone at a cost to myself" | Other-regarding preferences are admissible — Elster (2007, p. 193): *"the confusion of rationality and egoism is a crude error"* |
+| **"I went against my preferences"** | **L2 slide 5: *"not a compelling argument"*** |
+| "I was angry/tired/drunk and wanted something different" | Elster (2007, p. 193): such an agent *"acts rationally"*. Temporary preference change is allowed. |
 | Anything vague or habitual ("I procrastinate") | Not a decision. Needs to be one identifiable choice. |
 
 ---

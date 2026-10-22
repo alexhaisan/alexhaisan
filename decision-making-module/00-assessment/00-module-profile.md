@@ -17,17 +17,23 @@
 
 ## 🚨 Deadlines — verify immediately
 
-| Assessment | Weight | Length | Deadline (per slides) |
-|---|---|---|---|
-| **Intermediate** | **20%** | **300 words** | **23 October** |
-| **Final essay** | **80%** | **2,000 words** | **10 December** |
+| Assessment | Weight | Length | Deadline | Submit via |
+|---|---|---|---|---|
+| **Intermediate** | **20%** | **300 words** | **26 October, 3pm** | Moodle |
+| **Final essay** | **80%** | **2,000 words** | **10 December** | Moodle |
 
-> **⚠️ Today is 22 October 2026. The slide deck dates the intermediate assessment to
-> 23 October — i.e. tomorrow.**
->
-> The deck may be from a previous presentation of the module, so **this needs confirming on
-> Moodle before anything else.** If the deadline really is tomorrow, everything in
-> `06-coursework-build/` needs to be worked through today.
+> ✅ **CORRECTED from Lecture 2, slide 17.** Lecture 1 slide 7 said *"submission 23rd Oct"*;
+> Lecture 2 slide 17 states: *"Submission deadline is 26th Oct 3pm. Submit through Moodle."*
+> Lecture 2 is the later deck, so **26 October 3pm** stands. Still worth a glance at Moodle,
+> but the earlier alarm is resolved — there are four days, not one.
+
+### On AI use (Lecture 2, slide 17)
+
+> *"Use of AI is permitted (although not required!) for this coursework, but please check the
+> details on Moodle!"*
+
+Permitted, confirmed by the lecturer in the lecture itself. The *"check the details on
+Moodle"* instruction is still outstanding — see `03-ai-use-log.md`.
 
 ## The two assessments share one question
 

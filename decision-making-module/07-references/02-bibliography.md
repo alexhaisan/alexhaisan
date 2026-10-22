@@ -36,6 +36,24 @@ to cite; the rest of this file is provisional background.
 
 ---
 
+## ⭐⭐ Week 2 — VERIFIED (read in the original)
+
+Read in full from the supplied PDFs, 22 Oct 2026. **These are citable now.** Quotes with
+page/paragraph locators: `03-quote-ledger.md`. Full notes: `../05-further-reading/notes/`.
+
+| Status | Reference |
+|---|---|
+| ✅ **VERIFIED** · likely Week 2 SET READING | Binmore, K. (1999) 'Why experiment in economics?', *The Economic Journal*, 109(453), pp. F16–F24. |
+| ✅ **VERIFIED** · additional | Croson, R. and Gächter, S. (2010) 'The science of experimental economics', *Journal of Economic Behavior & Organization*, 73(1), pp. 122–131. doi: 10.1016/j.jebo.2009.09.008. |
+| ✅ **VERIFIED** · additional | Gneezy, U. and Rustichini, A. (2000) 'A fine is a price', *Journal of Legal Studies*, 29(1), pp. 1–18. |
+| ✅ **VERIFIED** · additional | Bertrand, M. and Mullainathan, S. (2001) 'Do people mean what they say? Implications for subjective survey data', *American Economic Review*, 91(2), pp. 67–72. |
+
+> ⚠️ **Two corrections to earlier entries in this file:**
+> - Gneezy and Rustichini is **pp. 1–18**, not 1–17.
+> - Binmore's pages carry an **F prefix** (F16–F24) — part of the citation, not a typo.
+
+---
+
 ## Foundational — the rational choice model
 
 | Status | Reference |
@@ -113,7 +131,7 @@ to cite; the rest of this file is provisional background.
 | UNVERIFIED | Camerer, C., Babcock, L., Loewenstein, G. and Thaler, R. (1997) 'Labor supply of New York City cabdrivers: one day at a time', *Quarterly Journal of Economics*, 112(2), pp. 407–441. |
 | UNVERIFIED | Fehr, E. and Schmidt, K.M. (1999) 'A theory of fairness, competition, and cooperation', *Quarterly Journal of Economics*, 114(3), pp. 817–868. |
 | UNVERIFIED | Festinger, L. (1957) *A Theory of Cognitive Dissonance*. Stanford: Stanford University Press. |
-| ⭐ see above | Gneezy, U. and Rustichini, A. (2000) 'A fine is a price', *Journal of Legal Studies*, 29(1), pp. 1–17. |
+| ✅ VERIFIED — see Week 2 block | Gneezy, U. and Rustichini, A. (2000) 'A fine is a price', *Journal of Legal Studies*, 29(1), pp. 1–18. |
 | UNVERIFIED | Güth, W., Schmittberger, R. and Schwarze, B. (1982) 'An experimental analysis of ultimatum bargaining', *Journal of Economic Behavior & Organization*, 3(4), pp. 367–388. |
 | UNVERIFIED | Staw, B.M. (1976) 'Knee-deep in the big muddy: a study of escalating commitment to a chosen course of action', *Organizational Behavior and Human Performance*, 16(1), pp. 27–44. |
 | UNVERIFIED | Thaler, R.H. (1980) 'Toward a positive theory of consumer choice', *Journal of Economic Behavior & Organization*, 1(1), pp. 39–60. |

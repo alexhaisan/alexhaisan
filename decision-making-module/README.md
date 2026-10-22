@@ -5,15 +5,15 @@ Convener: Jeremy Larner · Owner: Alex Haisan · Last updated: 22 October 2026
 
 ---
 
-## 🚨 Check this first
+## Deadlines
 
-The Week 1 slides date the **intermediate assessment (20%, 300 words) to 23 October** and the
-**final essay (80%, 2,000 words) to 10 December**. The deck may be from an earlier
-presentation of the module — **confirm both on Moodle before anything else.**
+| Assessment | Weight | Length | Deadline |
+|---|---|---|---|
+| **Intermediate** | 20% | 300 words | **26 October, 3pm** — Moodle |
+| Final essay | 80% | 2,000 words | 10 December |
 
-Also confirm: does the 300-word task use **slide 7's wording** (analyse your decision with
-the IRC model) or the **full four-part question** from slide 6? The two need different word
-budgets, and both are ready in `06-coursework-build/02-word-budget-and-structure.md`.
+Lecture 2 slide 17 corrects Lecture 1's "23rd Oct". AI use is **permitted** (slide 17),
+with the details to check on Moodle.
 
 Details: [`00-assessment/00-module-profile.md`](00-assessment/00-module-profile.md)
 
@@ -23,6 +23,9 @@ Details: [`00-assessment/00-module-profile.md`](00-assessment/00-module-profile.
 
 | If you want to… | Go to |
 |---|---|
+| **See what a submission looks like** (4 real exemplars) | [`06-coursework-build/00-the-format-and-exemplars.md`](06-coursework-build/00-the-format-and-exemplars.md) |
+| Find a verified quote with a page/paragraph locator | [`07-references/03-quote-ledger.md`](07-references/03-quote-ledger.md) |
+| Critically evaluate experiments (December essay) | [`09-research-methods/01-methods-of-behavioural-economics.md`](09-research-methods/01-methods-of-behavioural-economics.md) |
 | Know the deadlines and how the two assessments relate | [`00-assessment/00-module-profile.md`](00-assessment/00-module-profile.md) |
 | Understand **Elster's IRC model** as taught | [`01-core-theory/01-instrumental-rational-choice.md`](01-core-theory/01-instrumental-rational-choice.md) |
 | **Apply the model to your own decision** | [`01-core-theory/04-irc-worked-template.md`](01-core-theory/04-irc-worked-template.md) |
@@ -98,6 +101,7 @@ by fluke"* (p. 191).
 01-core-theory/        ⭐   Elster's IRC model as taught + the application template.
 02-deviations-and-theories/ Behavioural theories — PROVISIONAL, for the December essay.
 03-experiments/             Twelve canonical experiments, quick-reference.
+09-research-methods/        Lab / field / survey methods and how to critique them.
 04-course-materials/        Week 1 processed. Intake log tracks what's been taught.
 05-further-reading/         Reading notes + per-source analysis.
 06-coursework-build/        Decision screening → word budget → draft.
@@ -117,18 +121,22 @@ by fluke"* (p. 191).
 | ✅ Application template rebuilt around the four components + five-step procedure | |
 | ✅ All ten Week 1 sources analysed | |
 | ✅ Week 1 citations confirmed in the bibliography | |
-| ⬜ 🚨 **Deadline unconfirmed** | **blocking** |
-| ⬜ 🚨 **Scope of the 300-word task unconfirmed** | **blocking** |
+| ✅ Week 2 lecture processed — **deadline corrected to 26 Oct 3pm** | |
+| ✅ Four exemplar assessments analysed — **submission format settled** | |
+| ✅ All four Week 2 papers read in full, with page/paragraph locators | |
+| ✅ Quote ledger built (`07-references/03-quote-ledger.md`) | |
 | ⬜ **Decision to analyse — not yet chosen** | **blocking** |
 | ⬜ Draft | |
+| ⬜ "The compassion experiment" (L2 slide 11) not identified | minor |
 
 ### Next three actions
 
-1. **Confirm the deadline and the task wording on Moodle.** Everything else depends on it.
-2. **Do the slide 30 homework** — observe your own decisions and map the components. It
-   generates the candidate decisions, and it's what the lecturer asked for.
-3. **Screen 6–8 candidates** through the Deviation Test in
-   `06-coursework-build/01-decision-candidates.md`, then complete the template for the winner.
+1. **Pick 2–3 candidate decisions and map all four components — before the seminar.** The
+   Moodle task is explicit that the seminar is worth more if you arrive with work done.
+2. **Screen them** against L2 slide 5's warnings and the Deviation Test in
+   `06-coursework-build/01-decision-candidates.md`.
+3. **Draft to the exemplar format** — labelled headings, ~230–270 words, and close on
+   *which component has the biggest gap*.
 
 ---
 
