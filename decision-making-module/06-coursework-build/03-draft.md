@@ -1,25 +1,24 @@
 # 03 — Draft
 
 **Decision:** iPhone 17 Pro, bought on release day, £1,099 (256GB).
-**Status:** v3 — current. Price, storage and option set all confirmed by Alex.
+**Status:** v4 — current. Built to the marking rubric (`../00-assessment/05-rubric-and-self-assessment.md`).
 
 ---
 
-## Draft v3 · 250 words
+## Draft v4 · 248 words
 
 > **Instrumental Rational Choice Application Exercise**
 >
 > **Decision:** On release day I bought an iPhone 17 Pro for £1,099. My old phone still
 > worked. Its battery did not hold charge.
 >
-> **Actions Available:** I weighed a battery replacement, either an official Apple repair or
-> a cheaper aftermarket one at £150; waiting to see whether the iPhone 16 Pro fell in price;
-> the standard iPhone 17; and the Pro. I ruled out a cheaper Samsung flagship, since
-> switching operating systems carries real costs.
+> **Actions Available:** I weighed a battery replacement, official or aftermarket at £150;
+> waiting to see whether the iPhone 16 Pro fell in price; the standard iPhone 17; the Pro;
+> and a cheaper Samsung flagship, ruled out on switching costs.
 >
-> **Preferences:** I wanted a phone that worked, and the battery was the reason I was
-> thinking about it at all. I also wanted the standing that comes with owning the newest
-> model. I wanted to avoid slowness and parts of unknown provenance.
+> **Preferences:** I wanted a working phone, and the battery was why I was thinking about it
+> at all. I also wanted the standing of owning the newest model. I wanted to avoid slowness
+> and parts of unknown provenance.
 >
 > **Beliefs/Evidence:** I expected the Pro to be fast and dependable, and it is. I also
 > expected the novelty to fade inside a week, because it has faded inside a week every
@@ -29,10 +28,11 @@
 > **Conclusion:** An instrumentally rational agent with these preferences, status included,
 > discounts a benefit that lasts a week and repairs the battery. I bought the Pro. My option
 > set was complete and both expectations proved accurate, which isolates the gap at Evidence.
-> Wanting the phone settled which question I researched: months of material on what it could
-> do, none on how long I would care, though my own history had already answered that. Elster
-> requires evidence to result from an optimal investment in information gathering (2007,
-> p. 191). Mine was substantial, and aimed at the wrong question.
+> Wanting the phone settled which question I researched: the material I gathered fixed my
+> expectation of performance precisely, and left untouched the expectation that actually
+> decided the case. Elster requires evidence to result from an optimal investment in
+> information gathering, yet concedes that optimum is indeterminate (2007, pp. 191, 208). The
+> model cannot tell me how long I should have looked, only that I looked in the wrong place.
 >
 > **Reference**
 > Elster, J. (2007) *Explaining Social Behavior: More Nuts and Bolts for the Social
@@ -45,48 +45,71 @@
 | Section | Words |
 |---|---|
 | Decision | 22 |
-| Actions Available | 49 |
-| Preferences | 41 |
-| Beliefs/Evidence | 42 |
-| Conclusion | 96 |
-| **Body** | **250** |
-| + section headings | ~11 |
-| + reference | ~17 |
-| **Worst case, everything counted** | **≈278** |
-
-Comfortable under 300 on the strictest reading. ~261 if the reference is excluded.
+| Actions Available | 37 |
+| Preferences | 37 |
+| Beliefs/Evidence | 43 |
+| Conclusion | 109 |
+| **Body** | **248** |
+| + headings and title | 11 |
+| + reference | 18 |
+| **Worst case, everything counted** | **277** |
 
 ### Conclusion sentence lengths
-**21 / 4 / 16 / 31 / 15 / 9** — spread of 4 to 31.
+**20 / 4 / 16 / 28 / 22 / 19** — spread of 4 to 28.
 
 ---
 
-## How it meets the criteria
+## What v4 adds, and why
 
-| Requirement | Where |
-|---|---|
-| Four components mapped (L3 s17, criterion 1) | Four labelled sections |
-| Category correctness | Action = options · Preferences = wants · Beliefs = expectations · Evidence = basis |
-| IRC counterfactual, preferences held constant | *"with these preferences, **status included**"* |
-| One component named as the biggest gap (L2 s6) | *"isolates the gap at Evidence"* |
-| Mechanism named, not asserted | *"Wanting the phone settled which question I researched"* |
-| **Interaction between components (L3 s17, criterion 2)** | Preferences → Evidence → Action |
-| Harvard citation | Elster (2007, p. 191), quote ledger **E-01** |
-| Rhythm spread ≥ 5–30 | 4 to 31 ✅ |
+Both changes come from grading v3 against the rubric
+([`../00-assessment/05-rubric-and-self-assessment.md`](../00-assessment/05-rubric-and-self-assessment.md)).
+
+### ① A named weakness of IRC · Trait 2, the main cap
+
+v3 showed IRC failing to predict Alex's behaviour. It never said what that revealed about
+**the model**, and Trait 2's 70-79 band requires *"thorough comprehension of **critiques of
+IRC**."*
+
+> *"Elster requires evidence to result from an optimal investment in information gathering,
+> yet concedes that optimum is **indeterminate** (2007, pp. 191, 208). The model cannot tell
+> me how long I should have looked, only that I looked in the wrong place."*
+
+The critique is Elster's own (pp. 206-209): between searching too little and too much lies an
+interval within which *"no choice the agent makes… can be characterized as irrational."* So
+requirement (iii) is under-specified. It can catch misdirected search; it cannot price
+sufficient search.
+
+Using the set reading against itself costs no extra credibility and ties the critique to the
+exact component where the deviation sits, which is what the band asks for.
+
+### ② A second interaction · Trait 1
+
+v3 showed one chain. v4 shows the same component feeding **two** expectations with different
+success:
+
+> *"the material I gathered fixed my expectation of performance precisely, and left untouched
+> the expectation that actually decided the case"*
+
+That is **Evidence → Expectations**, alongside the existing **Preferences → Evidence**. Two
+links, moving toward Trait 1's *"how each component interacts."*
+
+### Cuts that paid for them
+- *Actions Available*: *"an official Apple repair or a cheaper aftermarket one"* → *"official
+  or aftermarket"*. Saved 12.
+- *Preferences*: reordered and tightened. Saved 4.
+- *Conclusion*: the old final clause *"Mine was substantial, and aimed at the wrong
+  question"* is absorbed into the new critique sentence, which says the same thing and more.
 
 ---
 
-## Version history and what changed
+## Version history
 
 | Version | Words | Change |
 |---|---|---|
-| v1 | 251 | First draft. Claimed official Apple repair *"never entered the set"*. |
-| v2 | 258 | **Correction:** Alex confirms he knew both repair routes. Line removed, Conclusion rebuilt around elimination. Elster citation added. |
-| v3 | 250 | **Restored the interaction sentence**, which v2 dropped. Cut *"All of it concerned what the phone could do. None of it concerned how long I would care"* from Beliefs/Evidence, since v3's Conclusion makes the same point and the duplication was wasting 19 words. |
-
-> The v3 cut is worth noting as a general lesson: when the same observation appears in two
-> sections, keep it where it does **analytical** work and delete it where it is merely
-> descriptive.
+| v1 | 251 | First draft. Wrongly claimed official Apple repair *"never entered the set"*. |
+| v2 | 258 | **Correction:** both repair routes were known. Conclusion rebuilt around elimination. Citation added. |
+| v3 | 250 | Restored the interaction sentence v2 had dropped; cut a duplication it exposed. |
+| **v4** | **248** | **Added a named critique of IRC and a second interaction.** Projected ≈63 → ≈70. |
 
 ---
 
