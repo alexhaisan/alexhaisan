@@ -1,10 +1,13 @@
-# 04 — The IRC Application Template
+# 04 — The IRC Application Template (Elster's four components)
 
-> **This is the working tool.** The brief says: *"applying the different elements of the model
-> to the circumstances of your decision and identifying how an instrumentally rational
-> decision-maker with your preferences would act."* That is an instruction to do exactly
-> what this template does. Fill it in for each candidate decision in
-> `../06-coursework-build/01-decision-candidates.md`, then write up the winner.
+> **✅ REBUILT against the Week 1 lecture.** This now follows the module's own four
+> components and five-step procedure, not a generic textbook model.
+>
+> The intermediate assessment task is: *"analyse that decision using the instrumental
+> rational choice model, **applying the different elements of the model to the circumstances
+> of your decision** and identifying how an instrumentally rational decision-maker **with
+> your preferences** would act in this situation, noting how that differed from your
+> decision."* This template is that task, step by step.
 
 ---
 
@@ -12,131 +15,191 @@
 
 > *On [date], I chose [X] over [Y] in the following situation: […]*
 
-Rules: it must be **recent**, **real**, **specific**, and **binary or near-binary**. A vague
-or ongoing pattern ("I procrastinate") is not a decision. A single identifiable choice is.
+Recent. Real. Specific. **One identifiable choice**, not a habit or a pattern.
 
 ---
 
-## Step 1 — Populate the six IRC components
+## Step 1 — Map the four components
 
-| Component | Your decision |
+Slide 17: *"The model is only useful to the extent that we can map the components onto
+aspects of an actual decision-making scenario."* This is the mapping.
+
+### ① ACTION — *a choice between alternative courses of action*
+
+| | |
 |---|---|
-| **1. Agent** | Me, at [time/place/state — tired? rushed? with others?] |
-| **2. Preferences** (my actual, stated ends — hold these constant) | I wanted: … <br> I ranked: … ≻ … ≻ … |
-| **3. Beliefs** (what I believed, and what the evidence actually supported) | I believed: … <br> The available evidence supported: … |
-| **4. Constraints** (the genuine feasible set) | Options actually available: … <br> Budget / time / information limits: … |
-| **5. Choice rule** (what I actually did) | I: … <br> Process used: [snap judgement / comparison / rule of thumb / deferred] |
-| **6. Consequences** | Outcome: … <br> Did I value anything other than consequences? [sunk costs? identity? the act itself?] |
+| Options I **actually considered** | |
+| Options that were **genuinely available** but I didn't consider | |
+| Options I **wrongly believed** were unavailable | |
 
----
+> Slide 23: *"Rational decision-makers never have 'I didn't think of that!' moments.
+> Violations at this step often involve **unconscious restriction of available possible
+> choices**."*
+>
+> **Test:** did my feasible set, as I framed it, match the real one? If I left something out,
+> that is an ACTION-component violation — and it is one of the easiest to evidence, because
+> you can usually say exactly what you failed to consider.
 
-## Step 2 — Derive the counterfactual
+### ② PREFERENCES — *goals, desires, aims, wants (which give utility)*
 
-> **Hold preferences fixed.** Change only the process.
-
-**An instrumentally rational agent with my preferences would have:**
-
-1. Formed belief ___ , because the evidence available to me at the time supported it
-2. Evaluated the feasible set as ___
-3. Computed that ___ maximised expected utility given those preferences
-4. Therefore chosen **___**
-
-**I actually chose ___.**
-
-**The gap is: ___**
-
-> This is the single highest-value sentence in the whole submission. Get it precise.
-
----
-
-## Step 3 — Run the Deviation Test
-
-Your decision qualifies only if at least one box is ticked. Tick honestly.
-
-- [ ] **Inconsistency** — I violated a named axiom (transitivity / invariance / independence /
-      dominance / menu independence). *Which one: ___*
-- [ ] **Belief failure** — I processed the evidence in a way Bayes would not sanction.
-      *How: ___*
-- [ ] **Means–ends failure** — I took an action that, by my own lights at the time, did not
-      best serve my own goal. *How: ___*
-- [ ] **Search failure** — my information-gathering was grossly mismatched to the stakes.
-      *How: ___*
-
-### ❌ If no box is ticked
-You have described a **preference, not a deviation**. The marker will say: *"an instrumentally
-rational agent with those preferences would have done exactly what you did."* **Pick another
-decision.**
-
-Common false positives — these are **NOT** deviations:
-| "I was irrational because…" | Why it isn't a deviation |
+| | |
 |---|---|
-| "…I spent money on something fun instead of saving" | That is a preference for present consumption. Admissible. |
-| "…I took the safe option" | Risk aversion is standard EUT. Admissible. |
-| "…I helped a friend at a cost to myself" | Other-regarding preferences are admissible under *thin* rationality. |
-| "…it turned out badly" | **Outcome ≠ process.** IRC judges the decision at the time of choosing, on the evidence then available. A good decision can have a bad outcome. This is the most common error in this assessment. |
-| "…I didn't have all the information" | Incomplete information is a *constraint*, not a failure — unless search itself was non-optimal (condition iii). |
+| What I was trying to achieve | |
+| My ranking over outcomes | ___ ≻ ___ ≻ ___ |
+| **Conflicting** preferences in play | ___ vs ___ |
+| The trade-off this forced | |
+
+> Slide 25: preferences *"are often **contradictory**, and involve **trade-off** — this is an
+> important element of the analysis."* **Do not skip this row.** The lecturer has flagged the
+> conflict between preferences as part of what's being assessed.
+>
+> 🚨 **Preferences cannot be intrinsically irrational.** Whatever you wanted, wanting it was
+> not the error. Hold these fixed in Step 2.
+
+### ③ EXPECTATIONS — *probabilities, beliefs*
+
+| | |
+|---|---|
+| What I believed each option would lead to | |
+| How likely I thought each outcome was | |
+| What the evidence I had actually supported | |
+| Gap between the two | |
+
+> Slide 27: *"Expectations should be formed without any impact from preferences — **no
+> wishful thinking**."*
+>
+> **Test:** did what I *wanted* leak into what I *believed*? Elster's distinction: desires as
+> the **father** of beliefs is irrational; desires as the **grandfather** (acting through
+> evidence-gathering) is fine.
+
+### ④ EVIDENCE — *information, data*
+
+| | |
+|---|---|
+| Evidence I had | |
+| Evidence I sought (and how hard) | |
+| Evidence that was cheaply available and I didn't seek | |
+| Evidence I over- or under-weighted | |
+
+> Slide 29: evidence includes *"life experience, facts/knowledge learnt, **advice from
+> others**, research, **observations of others' experience**."* Violations are *"often
+> noticeable through impact on expectations — evidence is **over- or under-valued**."*
+>
+> **Test:** was the search proportionate to the stakes? Elster: buying a house warrants more
+> search than choosing between two equally priced bottles of wine.
 
 ---
 
-## Step 4 — Locate the failure in Elster's conditions
+## Step 2 — Run the five-step IRC procedure (slides 15 & 21)
 
-| Condition | Satisfied? | Note |
+Work it as the model would, **using your preferences from ①**:
+
+| Step | Applied to my decision |
+|---|---|
+| 1. List all available choices | |
+| 2. Define goals / criteria | |
+| 3. For each choice: consequences, utility, probability | |
+| 4. Calculate expected utility (u × p) | |
+| 5. Choose the highest EU | **→ IRC predicts: ___** |
+
+You don't need real numbers, but **rough ones help enormously** — they make the comparison
+concrete and they evidence the module's numeracy outcome at almost no word cost.
+
+### A simple EU table
+
+| Option | Possible outcome | Utility (−10…+10) | Probability | u × p | Σ EU |
+|---|---|---|---|---|---|
+| A | | | | | |
+| | | | | | |
+| B | | | | | |
+| | | | | | |
+
+---
+
+## Step 3 — The counterfactual
+
+> *An instrumentally rational decision-maker **with my preferences** would have chosen ___,
+> because ___.*
+>
+> *I chose ___.*
+>
+> *The difference is ___.*
+
+**This is the sentence the assessment is actually about.** Everything else is setup.
+
+---
+
+## Step 4 — Locate the violation
+
+Tick the component that failed. Then tick the matching Elster requirement.
+
+| Component | Violated? | What exactly went wrong |
 |---|---|---|
-| (i) Action best serves desire, **given** belief | ☐ Yes ☐ No | |
-| (ii) Belief is best supported by the evidence | ☐ Yes ☐ No | |
-| (iii) Evidence gathered was optimal for the stakes | ☐ Yes ☐ No | |
+| **ACTION** — options unconsciously restricted | ☐ | |
+| **PREFERENCES** — trade-off resolved inconsistently | ☐ | |
+| **EXPECTATIONS** — belief not supported by evidence / wishful thinking | ☐ | |
+| **EVIDENCE** — search non-optimal, or evidence over-/under-valued | ☐ | |
 
-Write the result as a sentence: *"My decision satisfied (ii) and (iii), but violated (i) —
-I held an accurate belief and had searched adequately, yet still acted against it."*
+| Elster's requirement (p. 191) | Met? |
+|---|---|
+| (i) Action optimal, **given beliefs** | ☐ Yes ☐ No |
+| (ii) Beliefs best supported, **given evidence** | ☐ Yes ☐ No |
+| (iii) Evidence from **optimal investment** in gathering | ☐ Yes ☐ No |
+
+Write it as a sentence: *"My decision satisfied (ii) and (iii) but violated (i) — my belief
+was accurate and my search adequate, yet the action did not follow from them."*
 
 ---
 
-## Step 5 — Select the explanatory theory
+## Step 5 — The Deviation Test (does this decision actually qualify?)
 
-Go to `../02-deviations-and-theories/00-which-theory-fits.md`. Match the ticked box in
-Step 3 and the failed condition in Step 4 to a theory. **Then check that theory appears in
-the module materials.** If it does not, choose the nearest one that does.
+**At least one box in Step 4 must be ticked.** If none is, you have described a preference,
+not a deviation, and the piece cannot score. These are the module's own exclusions:
 
-| Failed condition | Typical theory family |
+| ❌ Not a deviation | Source |
 |---|---|
-| (i) Action ≠ belief-implied best action | Present bias / hyperbolic discounting; visceral factors; System 1 override; akrasia |
-| (ii) Belief ≠ evidence | Heuristics & biases: availability, representativeness, anchoring, base-rate neglect |
-| (iii) Search non-optimal | Bounded rationality / satisficing; choice overload; information avoidance |
-| Axiom violation (framing/reference) | Prospect theory; endowment effect; status quo bias; mental accounting |
+| "I wanted the enjoyable thing" | Slide 25: *preferences cannot be intrinsically irrational* |
+| "I was selfish" / "I was generous" | Elster p. 193: *"the confusion of rationality and egoism is a crude error"* |
+| "I was angry / tired / drunk and wanted something else" | Elster p. 193: an agent *"under the influence of emotion or drugs... acts rationally"* — temporary preference change is **allowed** |
+| "It turned out badly" | Elster p. 209: *"consequences of a decision cannot explain it"* |
+| "I regret it now" | Elster p. 209: the later self is *"an external observer"* |
+| "I did the right thing without thinking" | Elster p. 191: *"it is not enough to do the right thing by fluke"* — this is a violation, but note it's a violation **even though the outcome was right** |
+
+> The emotion/drugs exclusion is the one that will catch people out. It is counter-intuitive
+> and it is stated plainly in the set reading. If your decision is *"I was stressed and
+> chose badly"*, you need to show the failure was in **beliefs, evidence or the option set**
+> — not merely that your wants shifted.
 
 ---
 
 ## Worked example (illustrative — **do not submit this**)
 
-> **Decision:** On 3 October I renewed a £14.99/month subscription I had used twice in four
+> **Decision.** On 3 October I renewed a £14.99/month subscription I had used twice in four
 > months, after opening the cancellation page and closing it again.
 >
-> **Preferences (held constant):** I wanted to reduce discretionary spending; I valued the
-> service at roughly £4/month by my own estimate.
+> **① ACTION.** Options I considered: renew, or cancel. Options genuinely available but not
+> considered: downgrade to the £5.99 tier; pause for three months. → **Unconscious
+> restriction of the option set.** I framed a two-way choice that was really four-way.
 >
-> **Beliefs:** Accurate — I knew my usage rate and I knew the price.
+> **② PREFERENCES.** Reduce discretionary spending (strong); retain access in case I want it
+> (weak); avoid the small effort and finality of cancelling (weak but immediate). Conflicting
+> — and the trade-off was never made explicit.
 >
-> **Constraints:** Cancellation took two clicks and was free. Genuinely feasible.
+> **③ EXPECTATIONS.** Accurate. I knew my usage rate (≈0.5 uses/month) and the price. No
+> wishful thinking here.
 >
-> **IRC counterfactual:** An agent with my preferences, believing the service was worth £4
-> and costing £15, cancels. Expected utility of cancelling strictly dominates.
+> **④ EVIDENCE.** Complete and already in hand — four months of my own usage history. Search
+> was adequate; I just didn't act on it.
 >
-> **What I did:** Did not cancel.
+> **IRC procedure.** Valuing a use at ~£8, expected monthly utility of renewal ≈ £4 against a
+> £15 cost; cancelling dominates. **IRC predicts: cancel** (or, on the full option set,
+> downgrade).
 >
-> **Deviation Test:** ✅ Means–ends failure; ✅ reference-dependence (the status quo was
-> "subscribed", and the £15 felt like a *non-loss* rather than a recurring cost).
+> **Counterfactual.** An instrumentally rational agent with my preferences cancels or
+> downgrades. **I renewed.**
 >
-> **Elster:** (ii) ✅ satisfied, (iii) ✅ satisfied, **(i) ❌ violated.** Belief was accurate,
-> search was adequate, action did not follow.
->
-> **Theory:** Status quo bias (Samuelson & Zeckhauser, 1988), driven by loss aversion
-> (Kahneman & Tversky, 1979) — the default is coded as the reference point, so switching away
-> from it registers as a loss and is over-weighted relative to the equivalent gain.
->
-> **Future application:** Not "be more disciplined" — instead a **pre-commitment device**:
-> a calendar review of all recurring payments on the 1st of each month, with the default
-> flipped (every subscription must be actively justified to continue, rather than actively
-> cancelled to stop). This re-engineers the choice architecture rather than relying on willpower.
+> **Violation.** ACTION (restricted option set) and Elster **(i)** — the action did not follow
+> from accurate beliefs. (ii) and (iii) were satisfied.
 
-Note how that example makes **the default the thing that changed**, not the person. That is
-what a *good* answer to component D looks like.
+Note what that example does: it **holds the preferences fixed**, locates the failure at two
+**named** sites, and states the counterfactual in one line. That is the whole assessment.

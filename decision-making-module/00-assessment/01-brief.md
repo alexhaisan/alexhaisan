@@ -1,8 +1,14 @@
 # 01 — The Assessment Brief (authoritative)
 
-> **Status:** captured from the task images supplied 2026-10-22. Verify against the
-> official module handbook / VLE page before submission. If the two disagree, the
-> handbook wins and this file gets corrected.
+> **Status:** ✅ **Cross-checked against the Week 1 lecture deck (BUSI2051, slides 6–7),
+> 22 Oct 2026.** The two texts below are confirmed verbatim from the module's own slides.
+>
+> 🚨 **Two corrections since the first version of this file:**
+> 1. The question in §1 is attached on slide 6 to the **FINAL 2,000-word essay (80%)**,
+>    not to the 300-word piece. The 300-word intermediate assessment carries the task in
+>    §2. See `00-module-profile.md`.
+> 2. The slides date the intermediate assessment to **23 October**. **Confirm on Moodle
+>    immediately.**
 
 ---
 
@@ -39,8 +45,12 @@
 
 ## 5. Decoded — what is actually being marked
 
-The question contains **four distinct instructions**. Each is a mark-bearing component.
-Miss one and you cap your mark, no matter how good the other three are.
+⚠️ **Read `00-module-profile.md` first.** The four components below belong to the **full
+question (slide 6 → the December essay)**. The 300-word intermediate task (slide 7) is
+scoped to components **A and B only**, worked in much more detail. Two word budgets are
+set out in `../06-coursework-build/02-word-budget-and-structure.md`.
+
+The full question contains **four distinct instructions**. Each is a mark-bearing component.
 
 | # | Instruction | What the marker is looking for | Budget |
 |---|---|---|---|
@@ -71,11 +81,11 @@ The **Deviation Test** in `01-core-theory/04-irc-worked-template.md` screens for
 Run every candidate decision through it before you commit to writing about it.
 
 ### Trap 2 — "a theory or experiment which we have studied on this module"
-Not *any* theory. A **module** theory. Until the course materials are uploaded, the candidate
-list in `02-deviations-and-theories/` is provisional. Once the lecture slides are in
-`04-course-materials/`, the first job is to **cross out every theory the module did not cover**.
-Citing Prospect Theory beautifully will not help if the module taught Bounded Rationality
-and the marker is working from a module-specific rubric.
+Not *any* theory. A **module** theory — and this applies to the **December essay**, where the
+instruction appears. As of Week 1 the module has taught **IRC itself** and its failure modes;
+the behavioural theories in `02-deviations-and-theories/` remain **provisional** until later
+weeks confirm them. Citing Prospect Theory beautifully will not help if the module never
+covered it.
 
 ### Trap 3 — "This exercise is not an essay"
 Bullet points, tables and diagrams are **explicitly permitted**. This is a gift at 300 words:
@@ -93,6 +103,8 @@ Bullet points, tables and diagrams are **explicitly permitted**. This is a gift 
 - [ ] Does the 300-word limit have a tolerance (±10%)? Is there a penalty for exceeding it?
 - [ ] Do words inside tables, figures and the reference list count toward the 300?
 - [ ] Is the reference list required, and does it sit inside or outside the word count?
-- [ ] Which theories/experiments were actually taught? (resolved by uploading course materials)
+- [ ] 🚨 **Is the intermediate deadline really 23 October?** (slides say so)
+- [ ] 🚨 **Does the 300-word task use slide 7's wording or the full slide 6 question?**
+- [ ] Which theories/experiments will be taught? (resolved week by week)
 - [ ] Is there a published marking rubric or grade descriptor for this piece?
-- [ ] Submission deadline and platform (Turnitin?).
+- [ ] Submission platform (Moodle? Turnitin?).

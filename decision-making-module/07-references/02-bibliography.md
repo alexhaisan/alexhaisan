@@ -8,15 +8,43 @@
 
 ---
 
+## ⭐ Week 1 — CONFIRMED on the module
+
+Verified against the lecture deck and the supplied scans, 22 Oct 2026. These are the ones
+to cite; the rest of this file is provisional background.
+
+| Status | Reference | Where confirmed |
+|---|---|---|
+| ⭐ **SET READING** | Elster, J. (2007) *Explaining Social Behavior: More Nuts and Bolts for the Social Sciences*. Cambridge: Cambridge University Press, ch. 11, pp. 191–213. | Supplied scan |
+| ⭐ **SET READING** | Hargreaves Heap, S., Hollis, M., Lyons, B., Sugden, R. and Weale, A. (1992) *The Theory of Choice: A Critical Guide*. Oxford: Blackwell, ch. 1, pp. 3–25. | Supplied scan (CLA copy, BUSI2051) |
+| ⭐ **CITED IN LECTURE** | Elster, J. (1989) *Nuts and Bolts for the Social Sciences*. Cambridge: Cambridge University Press. | Slides 14, 16 — the IRC definition and the four components |
+| ⭐ **CITED IN LECTURE** | Hume, D. (1739–40) *A Treatise of Human Nature*. | Slide 24 — "Reason is slave to the passions" |
+| ⚠️ **CITED, UNREFERENCED** | Robbins, L. (1932) *An Essay on the Nature and Significance of Economic Science*. London: Macmillan. | Slide 13 — definition of economics. **Verify edition/year.** |
+| ⭐ **ADDITIONAL READING** | Allingham, M. (1999) *Rational Choice*. Basingstoke: Macmillan. | Week 1 list |
+| ⭐ **ADDITIONAL READING** | Hogarth, R.M. and Reder, M.W. (eds.) (1987) *Rational Choice: The Contrast between Economics and Psychology*. Chicago: University of Chicago Press. | Week 1 list |
+| ⭐ **ADDITIONAL READING** | Sugden, R. (1991) 'Rational choice: a survey of contributions from economics and philosophy', *Economic Journal*, 101(407), pp. 751–785. | Week 1 list |
+| ⭐ **ADDITIONAL READING** | Schoemaker, P.J.H. (1982) 'The expected utility model: its variants, purposes, evidence and limitations', *Journal of Economic Literature*, 20(2), pp. 529–563. | Week 1 list |
+| ⭐ **ADDITIONAL READING** | Gneezy, U. and Rustichini, A. (2000) 'A fine is a price', *Journal of Legal Studies*, 29(1), pp. 1–17. | Week 1 list |
+| ⚠️ **CHAPTER TBC** | Plous, S. (1993) *The Psychology of Judgment and Decision Making*. New York: McGraw-Hill, ch. 7. | Week 1 list — **confirm ch. 7 title** |
+| ⚠️ **EDITION TBC** | Wilkinson, N. (2008) *An Introduction to Behavioral Economics*. Basingstoke: Palgrave Macmillan, ch. 1. | Week 1 list — later eds. are Wilkinson and Klaes (2012, 2018) |
+| ⚠️ **EDITION TBC** | Baron, J. (2008) *Thinking and Deciding*. 4th edn. Cambridge: Cambridge University Press, chs. 3 and 10. | Week 1 list — **chapter numbers shift between editions** |
+
+### Citing the lecture itself
+> Larner, J. (2026) '*Introduction and Instrumental Rational Choice*' [Lecture]. BUSI2051: The Psychology of Economic and Business Decisions. University of Nottingham. [date].
+
+⚠️ Lecture slides are a **secondary** source. Where the slide quotes Elster, **cite Elster**.
+
+---
+
 ## Foundational — the rational choice model
 
 | Status | Reference |
 |---|---|
 | UNVERIFIED | Becker, G.S. (1976) *The Economic Approach to Human Behavior*. Chicago: University of Chicago Press. |
 | UNVERIFIED | Elster, J. (1986) *Rational Choice*. Oxford: Blackwell. |
-| UNVERIFIED | Elster, J. (1989) *Nuts and Bolts for the Social Sciences*. Cambridge: Cambridge University Press. |
+| ⭐ see above | Elster, J. (1989) *Nuts and Bolts for the Social Sciences*. Cambridge: Cambridge University Press. |
 | UNVERIFIED | Friedman, M. (1953) 'The methodology of positive economics', in *Essays in Positive Economics*. Chicago: University of Chicago Press, pp. 3–43. |
-| UNVERIFIED | Hargreaves Heap, S., Hollis, M., Lyons, B., Sugden, R. and Weale, A. (1992) *The Theory of Choice: A Critical Guide*. Oxford: Blackwell. |
+| ⭐ see above | Hargreaves Heap, S., Hollis, M., Lyons, B., Sugden, R. and Weale, A. (1992) *The Theory of Choice: A Critical Guide*. Oxford: Blackwell. |
 | UNVERIFIED | Hume, D. (1739) *A Treatise of Human Nature*. London: John Noon. |
 | UNVERIFIED | Knight, F.H. (1921) *Risk, Uncertainty and Profit*. Boston: Houghton Mifflin. |
 | UNVERIFIED | Savage, L.J. (1954) *The Foundations of Statistics*. New York: Wiley. |
@@ -85,7 +113,7 @@
 | UNVERIFIED | Camerer, C., Babcock, L., Loewenstein, G. and Thaler, R. (1997) 'Labor supply of New York City cabdrivers: one day at a time', *Quarterly Journal of Economics*, 112(2), pp. 407–441. |
 | UNVERIFIED | Fehr, E. and Schmidt, K.M. (1999) 'A theory of fairness, competition, and cooperation', *Quarterly Journal of Economics*, 114(3), pp. 817–868. |
 | UNVERIFIED | Festinger, L. (1957) *A Theory of Cognitive Dissonance*. Stanford: Stanford University Press. |
-| UNVERIFIED | Gneezy, U. and Rustichini, A. (2000) 'A fine is a price', *Journal of Legal Studies*, 29(1), pp. 1–17. |
+| ⭐ see above | Gneezy, U. and Rustichini, A. (2000) 'A fine is a price', *Journal of Legal Studies*, 29(1), pp. 1–17. |
 | UNVERIFIED | Güth, W., Schmittberger, R. and Schwarze, B. (1982) 'An experimental analysis of ultimatum bargaining', *Journal of Economic Behavior & Organization*, 3(4), pp. 367–388. |
 | UNVERIFIED | Staw, B.M. (1976) 'Knee-deep in the big muddy: a study of escalating commitment to a chosen course of action', *Organizational Behavior and Human Performance*, 16(1), pp. 27–44. |
 | UNVERIFIED | Thaler, R.H. (1980) 'Toward a positive theory of consumer choice', *Journal of Economic Behavior & Organization*, 1(1), pp. 39–60. |

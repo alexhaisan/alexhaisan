@@ -1,9 +1,19 @@
 # 00 — Which Theory Fits My Decision? (diagnostic index)
 
-> **⚠️ GATE:** Before using anything in this folder, confirm the theory was **taught on your
-> module**. The brief says *"a theory or experiment which we have studied on this module."*
-> Once course materials land in `../04-course-materials/`, strike through everything that
-> was not covered. Until then, every entry here is **provisional**.
+> **⚠️ GATE — status as of Week 1 (22 Oct 2026).**
+>
+> The module (BUSI2051) has so far taught **Elster's IRC model and its failure modes**. None
+> of the behavioural theories below has yet been confirmed as covered. They remain
+> **provisional** and are here for the **December essay**, where the instruction *"a theory or
+> experiment which we have studied on this module"* applies.
+>
+> Module learning objective 2 is *"understand how human decision-making may deviate from IRC,
+> and some theories which can explain this"* — so this material **is** coming. Tick theories
+> off week by week in `../04-course-materials/00-intake-log.md` as they are taught.
+>
+> **For the 300-word intermediate piece you do not need any of this.** The deviation is
+> located within IRC's own four components — see
+> `../01-core-theory/04-irc-worked-template.md`.
 
 ---
 

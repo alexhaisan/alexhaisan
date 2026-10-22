@@ -1,45 +1,46 @@
-# 04 — Course Materials (upload here)
+# 04 — Course Materials
 
-> **This folder is currently empty and is the single biggest gap in the knowledge base.**
-> Everything in `02-deviations-and-theories/` is provisional until it can be checked against
-> what the module actually taught.
+**Module:** BUSI2051 — The Psychology of Economic and Business Decisions
+**Convener:** Jeremy Larner, University of Nottingham
+**Primary platform:** Moodle (weekly tasks: reading, coursework prep, videos, self-reflection)
 
-## Where to put things
+## Status
+
+| Week | Lecture | Set reading | Processed |
+|---|---|---|---|
+| **1** | Introduction & Instrumental Rational Choice | Elster (2007) ch. 11; Hargreaves Heap (1992) ch. 1 | ✅ |
+| 2+ | — | — | ⬜ awaiting upload |
+
+Week 1 notes: [`lectures/W1-instrumental-rational-choice.md`](lectures/W1-instrumental-rational-choice.md)
+Reading notes: [`../05-further-reading/notes/`](../05-further-reading/notes/)
+Per-source analysis: [`../05-further-reading/02-source-analysis.md`](../05-further-reading/02-source-analysis.md)
+
+## Where to put new material
 
 | Folder | What goes in it |
 |---|---|
-| `lectures/` | Lecture slides, lecture notes, recordings/transcripts |
-| `seminars/` | Seminar worksheets, problem sets, in-class exercises and their answers |
-| `slides/` | Standalone slide decks not tied to a numbered lecture |
-| `readings/` | Set readings, journal articles, book chapters, the module handbook |
+| `lectures/` | Lecture slides, notes, recordings/transcripts |
+| `seminars/` | Workshop worksheets, group activities, outputs |
+| `slides/` | Standalone decks not tied to a numbered lecture |
+| `readings/` | Set readings, articles, chapters, the module handbook |
 
-Any format is fine — PDF, PPTX, DOCX, images of slides, notes typed into a `.md` file.
+Any format — PPTX, PDF, DOCX, photos of slides, typed notes.
 
-## What happens once materials land
+## What happens when material lands
 
-In priority order:
+1. **Extract the module's own definitions.** Where the lecturer differs from a textbook,
+   **the lecturer wins** — this already happened in Week 1 and forced a full rewrite of
+   `../01-core-theory/01-instrumental-rational-choice.md`.
+2. **Tick off theories as taught** in `00-intake-log.md` — this is what unlocks them for
+   the December essay.
+3. Capture the lecturer's terminology and worked examples.
+4. Extract citations → `../07-references/02-bibliography.md`.
+5. Log the item in `00-intake-log.md`.
 
-1. **Extract the module's own definition of Instrumental Rational Choice.** If the lecturer
-   defines the components differently from `01-core-theory/01-instrumental-rational-choice.md`,
-   **the lecturer's version wins** and that file gets rewritten to match. Markers mark against
-   the taught model.
-2. **Build the definitive taught-theory list.** Strike out everything in
-   `02-deviations-and-theories/` that was not covered.
-3. **Capture the lecturer's own terminology and examples.** Using the module's vocabulary is
-   one of the cheapest ways to signal engagement.
-4. **Extract the reading list** into `../05-further-reading/01-reading-list.md`, mark which
-   items are required vs optional, and align `../07-references/02-bibliography.md` with it.
-5. **Find any marking rubric or grade descriptors** and map them onto
-   `../00-assessment/02-format-and-submission.md`.
-6. **Log everything** in `00-intake-log.md`.
+## Most useful things to upload next
 
-## Priority list — what is most useful to upload first
-
-1. 📕 **The module handbook** (assessment rules, word count tolerance, AI policy, rubric)
-2. 📕 **The lecture that defines Instrumental Rational Choice** — highest value single item
-3. 📕 **The lecture(s) covering behavioural deviations** — settles which theory to use
-4. 📙 **The reading list**
-5. 📙 **Seminar exercises on rational choice** — often contain exactly the worked analysis
-   the coursework is asking for
-6. 📗 Any **exemplar answers** or past feedback
-7. 📗 Remaining lectures (macro/micro/managerial) — for the skills-mapping strand
+1. 📕 **The module handbook** — word-count tolerance, rubric, AI tool policy
+2. 📕 **Workshop 1 materials** — the group activities are IRC application practice
+3. 📕 **The Talis reading list**
+4. 📙 Weeks 2+ lectures — these unlock the deviation theories
+5. 📙 Any exemplar answers or past feedback
