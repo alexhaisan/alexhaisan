@@ -1,16 +1,16 @@
 # 03 — Draft
 
 **Decision:** iPhone 17 Pro, bought on release day, £1,099 (256GB).
-**Status:** v5 — current. Rebuilt as flowing prose after analysing the first-class sample
-(`09-first-class-sample-analysis.md`).
+**Status:** v6 — current. Quantification added after analysing Answer 2
+(`10-answer-two-analysis.md`).
 
 ---
 
-## Draft v5 · 283 words
+## Draft v6 · 288 words
 
 > The Psychology of Economic and Business Decisions (BUSI2051)
 > Instrumental Rational Choice application exercise
-> Word Count: 283
+> Word Count: 288
 >
 > On release day I bought an iPhone 17 Pro for £1,099, when a battery repair would have cost
 > £150. Elster's Instrumental Rational Choice (IRC) model shows where that decision parted
@@ -18,23 +18,23 @@
 >
 > Action requires listing every option available, and mine was unusually complete. Alongside
 > the Pro I weighed two battery repairs, official and aftermarket, a price drop on the iPhone
-> 16 Pro, and the standard iPhone 17. I ruled out a cheaper Samsung flagship on the real
-> costs of switching operating systems.
+> 16 Pro, and the standard iPhone 17. I ruled out a cheaper Samsung flagship on switching
+> costs.
 >
-> My preferences were a working phone, freedom from slowness and from parts of unknown
-> provenance, and the standing that comes with owning the newest model. Elster (2007) holds
-> that preferences cannot themselves be irrational, and wanting status is no exception.
-> Holding every one of them constant, the model still predicts the repair.
+> My preferences were a working phone, no slowness, no parts of unknown provenance, and the
+> standing that comes with owning the newest model. Elster (2007) holds that preferences
+> cannot themselves be irrational, and wanting status is no exception. Holding every one of
+> them constant, the model still predicts the repair.
 >
 > My expectations were accurate too: I expected the Pro to be fast and dependable, and it is.
 > I also expected the novelty to fade inside a week, because it has faded inside a week every
-> previous time. Neither belief was bent by what I wanted.
+> previous time. The £949 premium therefore bought about seven days of standing, at roughly
+> £135 a day. Neither belief was bent by what I wanted.
 >
-> The deviation sits at evidence. Over several months I gathered keynote presentations,
-> pre-release rumour and benchmark reviews, every piece of which concerned what the phone
-> could do. Wanting it settled which question I asked. The search therefore fixed my
-> expectation of performance precisely, and left untouched the expectation that actually
-> decided the case.
+> The deviation sits at evidence. Over several months I gathered keynotes, pre-release rumour
+> and benchmark reviews, all of it concerning what the phone could do. Wanting it settled
+> which question I asked. The search fixed my expectation of performance precisely, and left
+> untouched the expectation that actually decided the case.
 >
 > Elster requires evidence to result from an optimal investment in information gathering, yet
 > concedes that this optimum is indeterminate (2007, pp. 191, 208). The model can show that I
@@ -52,56 +52,64 @@
 | Paragraph | Words | Sentences | Lengths |
 |---|---|---|---|
 | Opening | 33 | 2 | 19, 14 |
-| Action | 50 | 3 | 11, 24, 15 |
-| Preferences | 52 | 3 | 25, 15, 12 |
-| Expectations | 45 | 3 | 17, 20, 8 |
-| Evidence | 53 | 4 | 5, 22, 7, 19 |
+| Action | 45 | 3 | 11, 24, 10 |
+| Preferences | 50 | 3 | 23, 15, 12 |
+| Expectations | 60 | 4 | 17, 20, 15, 8 |
+| Evidence | 50 | 4 | 5, 20, 7, 18 |
 | Conclusion | 50 | 3 | 23, 19, 8 |
-| **Body** | **283** | 18 | |
+| **Body** | **288** | 19 | |
 
-| | v5 | First-class sample |
-|---|---|---|
-| Body words | 283 | 295 |
-| Sentences | 18 | 18 |
-| Range | 5–25 | 7–23 |
-| Mean | 15.7 | 16.4 |
-| Std dev | ~6 | 3.6 |
+| | Words | Mean | Min | Max |
+|---|---|---|---|---|
+| First-class sample | 295 | 16.4 | 7 | 23 |
+| Answer 2 (PwC) | 296 | 13.5 | 3 | 24 |
+| **Our v6** | **288** | **15.2** | **5** | **24** |
 
-Close enough on profile. Slightly more varied, because this piece has pivots the sample does
-not: *"The deviation sits at evidence"* and *"Wanting it settled which question I asked"* both
-earn their shortness.
-
-> **If the reference list counts** toward the 300, drop it. The citation is optional for this
-> assessment, and 283 body words leaves no room for 18 more. Keep the in-text *(2007, pp. 191,
-> 208)* either way.
+Sits between the two samples on every measure.
 
 ---
 
-## Why v5 looks different from v4
+## What v6 adds
 
-The first-class sample is **flowing prose**, not labelled headings. Full analysis in
-[`09-first-class-sample-analysis.md`](09-first-class-sample-analysis.md). Four changes
-followed:
+### The quantification · Answer 2's best move, applied here
 
-### ① Prose, with the component named in each opening sentence
-*"Action requires…"* · *"My preferences were…"* · *"My expectations were…"* · *"The deviation
-sits at evidence"*. The marker never hunts, and the argument connects across paragraphs in a
-way boxes cannot.
+Answer 2's strongest single passage is its tax-NI-rent calculation showing a £3,000 pay rise
+*"cancelled out"*. We had the raw material for an equivalent and were not using it:
 
-### ② Used the allowance
-248 → 283 words. The extra went to Action and Preferences, which is where this piece is
-strongest and the sample is weakest.
+> *"The £949 premium therefore bought about seven days of standing, at roughly £135 a day."*
 
-### ③ Header block with declared word count
-Copied straight from the sample.
+£1,099 − £150 = £949. Divided by the one week Alex himself predicted the novelty would last.
 
-### ④ Calmer rhythm
-v4 ran 4 to 28 with a mean near 15. The sample runs 7 to 23 with a standard deviation of 3.6.
-Academic prose is steadier than I had been advising; the short sentence works because it is
-**rare**, not because it is frequent.
+Fifteen words. It makes the expected-utility comparison concrete, evidences the module's
+numeracy outcome, and lands at the exact point where the argument turns. It is also the kind
+of number a marker remembers.
 
-Everything v4 gained is retained: the sourced critique of IRC's indeterminacy, and both
-interactions.
+### Trims that paid for it
+- *Action*: *"on the real costs of switching operating systems"* → *"on switching costs"*
+- *Preferences*: *"freedom from slowness and from parts of unknown provenance"* → *"no
+  slowness, no parts of unknown provenance"*
+- *Evidence*: *"keynote presentations"* → *"keynotes"*; *"every piece of which concerned"* →
+  *"all of it concerning"*
+
+Net: +5 words for a considerably stronger paragraph.
+
+---
+
+## Where this draft now stands against both samples
+
+| | First-class | Answer 2 | **v6** |
+|---|---|---|---|
+| Scenario complexity | Low | **High** | Low |
+| Quantified trade-off | ✗ | **✓✓** | **✓** |
+| Interactions | 2, in conclusion | **3, labelled** | 2, in prose |
+| Critique of IRC | ✓ asserted | ✗ **none** | **✓ sourced** |
+| Citation + reference | in-text only | ✗ none | **✓ both** |
+| Action analysed | ✗ described only | partly | **✓** |
+| Expectations finding | wishful thinking | false beliefs | **accurate, acted against** |
+| Prose quality | good | poor | good |
+
+The one axis we cannot win is **scenario complexity**, and that was fixed the moment the
+decision was chosen. Everything else is now at or above both samples.
 
 ---
 
@@ -110,10 +118,11 @@ interactions.
 | Version | Words | Change |
 |---|---|---|
 | v1 | 251 | First draft. Wrongly claimed official Apple repair *"never entered the set"*. |
-| v2 | 258 | **Correction:** both repair routes were known. Conclusion rebuilt around elimination. |
-| v3 | 250 | Restored the interaction sentence v2 dropped; cut a duplication it exposed. |
-| v4 | 248 | Added a named critique of IRC and a second interaction. Projected ≈63 → ≈70. |
-| **v5** | **283** | **Rebuilt as flowing prose** after the first-class sample. Allowance used, rhythm calmed, header added. |
+| v2 | 258 | **Correction:** both repair routes were known. Rebuilt around elimination. |
+| v3 | 250 | Restored the interaction sentence v2 dropped; cut a duplication. |
+| v4 | 248 | Added a sourced critique of IRC and a second interaction. |
+| v5 | 283 | **Rebuilt as flowing prose** after the first-class sample. |
+| **v6** | **288** | **Quantified the trade-off**, after Answer 2. |
 
 ---
 
