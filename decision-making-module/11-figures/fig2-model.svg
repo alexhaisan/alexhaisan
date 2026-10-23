@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="556" viewBox="0 0 960 556" font-family="Verdana, Geneva, sans-serif">
+  <rect width="960" height="556" fill="#ffffff"/>
+  <defs>
+    <linearGradient id="bx" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d6d6d6"/><stop offset="55%" stop-color="#b2b2b2"/><stop offset="100%" stop-color="#919191"/>
+    </linearGradient>
+    <filter id="sh" x="-20%" y="-20%" width="150%" height="165%">
+      <feDropShadow dx="2.5" dy="3" stdDeviation="2.6" flood-color="#000000" flood-opacity="0.34"/>
+    </filter>
+    <marker id="bk" markerWidth="10" markerHeight="10" refX="8" refY="3.4" orient="auto"><path d="M0,0 L8,3.4 L0,6.8 z" fill="#000000"/></marker>
+    <marker id="rd" markerWidth="10" markerHeight="10" refX="8" refY="3.4" orient="auto"><path d="M0,0 L8,3.4 L0,6.8 z" fill="#c00000"/></marker>
+  </defs>
+
+  <!-- ACTION -->
+  <rect x="356" y="30" width="248" height="86" rx="14" fill="url(#bx)" stroke="#6e6e6e" stroke-width="1.3" filter="url(#sh)"/>
+  <text x="480" y="62" text-anchor="middle" font-size="17" font-weight="bold" fill="#111">Action</text>
+  <text x="480" y="90" text-anchor="middle" font-size="13" fill="#111">Withdrew from Marshall Wace</text>
+
+  <!-- PREFERENCES -->
+  <rect x="30" y="230" width="262" height="104" rx="14" fill="url(#bx)" stroke="#6e6e6e" stroke-width="1.3" filter="url(#sh)"/>
+  <text x="161" y="262" text-anchor="middle" font-size="17" font-weight="bold" fill="#111">Preferences</text>
+  <text x="161" y="288" text-anchor="middle" font-size="12" fill="#111">Security, the ACA, worthwhile</text>
+  <text x="161" y="310" text-anchor="middle" font-size="12" fill="#111">work, a career kept open</text>
+
+  <!-- EXPECTATIONS -->
+  <rect x="668" y="230" width="262" height="104" rx="14" fill="url(#bx)" stroke="#6e6e6e" stroke-width="1.3" filter="url(#sh)"/>
+  <text x="799" y="262" text-anchor="middle" font-size="17" font-weight="bold" fill="#111">Expectations</text>
+  <text x="799" y="288" text-anchor="middle" font-size="12.5" fill="#111">&#8220;an £80,000 gap&#8221;</text>
+  <text x="799" y="312" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#c00000">actual £37,898</text>
+
+  <!-- EVIDENCE (under Expectations, as in the lecture diagram) -->
+  <rect x="668" y="420" width="262" height="86" rx="14" fill="url(#bx)" stroke="#6e6e6e" stroke-width="1.3" filter="url(#sh)"/>
+  <text x="799" y="452" text-anchor="middle" font-size="17" font-weight="bold" fill="#111">Evidence</text>
+  <text x="799" y="480" text-anchor="middle" font-size="13" fill="#111">Headline figures only</text>
+
+  <!-- Preferences -> Action : the one link that held -->
+  <line x1="238" y1="230" x2="352" y2="126" stroke="#000000" stroke-width="2.2" marker-end="url(#bk)"/>
+  <text x="212" y="182" text-anchor="end" font-size="12" font-weight="bold" fill="#111">Held</text>
+
+  <!-- Expectations -> Action : broke -->
+  <line x1="726" y1="230" x2="610" y2="126" stroke="#c00000" stroke-width="2.2" marker-end="url(#rd)"/>
+  <text x="756" y="176" font-size="11.5" fill="#c00000">This belief argued</text>
+  <text x="756" y="194" font-size="11.5" fill="#c00000">for taking the job</text>
+
+  <!-- Preferences -> Evidence : broke -->
+  <path d="M 161 338 C 161 492 400 502 660 480" fill="none" stroke="#c00000" stroke-width="2.2" marker-end="url(#rd)"/>
+  <text x="392" y="430" text-anchor="middle" font-size="11.5" fill="#c00000">Search stopped at the headline</text>
+
+  <!-- Evidence -> Expectations : broke -->
+  <line x1="799" y1="416" x2="799" y2="342" stroke="#c00000" stroke-width="2.2" marker-end="url(#rd)"/>
+  <text x="780" y="384" text-anchor="end" font-size="11.5" fill="#c00000">Wrong by £44,102</text>
+
+  <!-- inputs the model has no box for -->
+  <path d="M 230 92 L 350 100" fill="none" stroke="#c00000" stroke-width="2.4" stroke-dasharray="7,5" marker-end="url(#rd)"/>
+  <text x="24" y="34" font-size="12" font-weight="bold" fill="#c00000">What actually moved me</text>
+  <text x="24" y="54" font-size="11" fill="#c00000">£27,000 tuition already spent;</text>
+  <text x="24" y="71" font-size="11" fill="#c00000">the model has no box for it</text>
+
+  <path d="M 730 92 L 610 100" fill="none" stroke="#c00000" stroke-width="2.4" stroke-dasharray="7,5" marker-end="url(#rd)"/>
+  <text x="936" y="34" text-anchor="end" font-size="12" font-weight="bold" fill="#c00000">An option never generated</text>
+  <text x="936" y="54" text-anchor="end" font-size="11" fill="#c00000">deferral never raised with the firm;</text>
+  <text x="936" y="71" text-anchor="end" font-size="11" fill="#c00000">it surfaced only afterwards</text>
+</svg>

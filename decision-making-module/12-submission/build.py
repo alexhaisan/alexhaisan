@@ -11,7 +11,7 @@ C = {
        'Hours: sixty against forty; 3.2 times becomes 1.5 net hourly.',
        'Qualification: the ACA travels, the role is niche.',
        'Search: twenty minutes of arithmetic, not done.'],
- 'fig1':'Figure 1: believed gap against real gap.',
+ 'fig1':'Figure 1: the gap I believed in against the gap that exists.',
  'expect':('Expectations: ','I expected an £80,000 advantage and sixty-hour weeks. The second was right, the first wrong by half. I never tested whether they would wait.'),
  'table':[['Preference','Marshall Wace','PwC'],
           ['Security','+£37,898 net','certain'],
@@ -25,7 +25,8 @@ C = {
         'Expectations to action: that figure argued for accepting. I withdrew anyway.',
         'Outside the model: what moved me was tuition already paid, spent either way.',
         "The model's limit: it asks for the right amount of searching without saying what that is (Hargreaves Heap, 1992)."],
- 'fig2':'Figure 2: my decision mapped onto the model.',
+ 'fig3':'Figure 3: my decision mapped onto the model.',
+ 'fig2':'Figure 2: my preferences against both options.',
 }
 
 def wc():
@@ -36,10 +37,10 @@ def wc():
     n += len('Evidence:'.split()) + sum(len(x.split()) for x in C['ev'])
     n += len(C['fig1'].split())
     n += len((C['expect'][0]+C['expect'][1]).split())
-    n += sum(len(c.split()) for r in C['table'] for c in r)
+    n += len(C['fig2'].split())
     n += len((C['pred'][0]+C['pred'][1]).split())
     n += len(C['dev_h'].split()) + len(C['dev_intro'].split()) + sum(len(x.split()) for x in C['dev'])
-    n += len(C['fig2'].split())
+    n += len(C['fig3'].split())
     return n
 TOTAL = wc()
 
@@ -75,21 +76,15 @@ for b in C['prefs']: para(text=b, bullet=True)
 para('Evidence:')
 for b in C['ev']: para(text=b, bullet=True)
 
-d.add_picture('../11-figures/figure-2-headline-vs-net.png', width=Cm(15))
+d.add_picture('../11-figures/fig1-money.png', width=Cm(15))
 d.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
 para(text=C['fig1'], size=9, italic=True)
 
 para(*C['expect'])
 
-t = d.add_table(rows=0, cols=3); t.style = 'Table Grid'
-for i, row in enumerate(C['table']):
-    cells = t.add_row().cells
-    for j, val in enumerate(row):
-        cells[j].text = ''
-        p = cells[j].paragraphs[0]
-        p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.SINGLE
-        p.paragraph_format.space_after = Pt(2)
-        r = p.add_run(val); r.font.name='Verdana'; r.font.size=Pt(10); r.bold = (i==0 or j==0)
+d.add_picture('../11-figures/fig3-table.png', width=Cm(15))
+d.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
+para(text=C['fig2'], size=9, italic=True)
 para(text='', size=6)
 
 para(*C['pred'])
@@ -97,9 +92,9 @@ para(C['dev_h'])
 para(text=C['dev_intro'])
 for b in C['dev']: para(text=b, bullet=True)
 
-d.add_picture('../11-figures/figure-1-irc-components.png', width=Cm(15))
+d.add_picture('../11-figures/fig2-model.png', width=Cm(15))
 d.paragraphs[-1].alignment = WD_ALIGN_PARAGRAPH.CENTER
-para(text=C['fig2'], size=9, italic=True)
+para(text=C['fig3'], size=9, italic=True)
 
 para('References', space_before=10)
 for ref in ['Elster, J. (2007) Explaining Social Behavior: More Nuts and Bolts for the Social Sciences. Cambridge: Cambridge University Press.',
@@ -108,5 +103,5 @@ for ref in ['Elster, J. (2007) Explaining Social Behavior: More Nuts and Bolts f
     p.paragraph_format.left_indent = Cm(1); p.paragraph_format.first_line_indent = Cm(-1)
 
 d.save('IRC_application_exercise.docx')
-print('word count (strictest: headings + bullets + table cells + captions):', TOTAL)
+print('word count (strictest: headings + bullets + captions):', TOTAL)
 print('saved IRC_application_exercise.docx')
