@@ -1,16 +1,16 @@
 # 03 — Draft
 
 **Decision:** Withdrew from Marshall Wace final-stage interviews, autumn 2026.
-**Status:** v10 — current. Built after the full content audit (`12-content-audit.md`) and with
+**Status:** v11 — current. Built after the full content audit (`12-content-audit.md`) and with
 two figures (`../11-figures/`).
 
 ---
 
-## Draft v10 · 274 words body, 293 with figure captions
+## Draft v11 · 272 words body, 291 with both figure captions
 
 > The Psychology of Economic and Business Decisions (BUSI2051)
 > Instrumental Rational Choice application exercise
-> Word count: 293
+> Word count: 291
 >
 > In autumn 2026 I withdrew from final-round interviews for a fund accountant role at
 > Marshall Wace, worth £120,000. The decision was probably right. The way I reached it was
@@ -23,26 +23,62 @@ two figures (`../11-figures/`).
 >
 > I wanted security, the ACA, worthwhile work, and a career not narrowed at twenty-one.
 > Elster (2007) treats preferences as given, so wanting the money was not the error. They
-> pulled against each other: I dislike the audit work while wanting the qualification it
-> leads to.
+> conflicted: I dislike the audit work but want the qualification it leads to.
 >
 > I believed the gap was about £80,000 a year. It is £37,898. Tax, National Insurance and
-> student loan take 54% of it, and the £40,000 bonus is worth £15,600 in the hand. I never
-> checked. Wanting the job settled which questions felt worth asking, and the sums were not
-> among them. They would have taken twenty minutes, from someone training as an accountant.
-> I also counted three years of tuition already paid, which is spent whichever way I choose.
+> student loan take 54%, and the £40,000 bonus is worth £15,600 in the hand. I never checked.
+> Twenty minutes of arithmetic, from someone training as an accountant, and I did none of it.
 >
-> So the numbers support withdrawing, and that is the problem. Elster asks that an action
-> follow from the beliefs that justify it, because doing the right thing by accident is not
-> the same as reasoning well (2007, p. 191). Mine followed from none of them. Hargreaves Heap
-> (1992) explains why I never looked: I could not know the calculation mattered until I had
-> done it.
+> So I withdrew holding a figure that argued for the opposite, and never tested it. What
+> moved me instead was three years of tuition already paid, which is spent whichever way I
+> choose. Elster asks that an action follow from the beliefs that justify it: doing the right
+> thing by accident is not reasoning well (2007, p. 191). The model is weaker here than it
+> looks. It demands the right amount of searching without saying what that is, and as
+> Hargreaves Heap (1992) argues, I could not know the sums mattered until I had done them.
 >
 > *Figure 1: my decision mapped onto the model.*
 > *Figure 2: the gap I believed in, and the real one.*
 
 **Figures:** [`../11-figures/figure-1-irc-components.png`](../11-figures/figure-1-irc-components.png) ·
 [`../11-figures/figure-2-headline-vs-net.png`](../11-figures/figure-2-headline-vs-net.png)
+
+---
+
+## ⚠️ v11 corrects a logic error, and finishes two jobs v10 left half-done
+
+### The logic error
+
+v10 implied that **wanting the job** steered the search. That is not what happened. Alex
+**declined** the job. The £80,000 figure he believed argued *for* accepting, so it cannot
+also explain withdrawing.
+
+The accurate account is sharper, and it names **four** broken links instead of one:
+
+| | Link | What went wrong |
+|---|---|---|
+| 1 | Evidence → Expectations | Search stopped at the headline, so the belief was wrong by half |
+| 2 | **Expectations → Action** | The belief argued *for* the job. He withdrew anyway, so the action did not follow from it either |
+| 3 | **nothing → Action** | What actually moved him was the tuition already spent, which the model has no box for |
+| 4 | Action, option set | A third option never generated |
+
+Link 2 is the one v10 missed entirely, and it is the strongest: **his own stated belief
+pointed the other way.**
+
+### Job one: the parts now visibly connect
+> *"So I withdrew holding a figure that argued for the opposite, and never tested it. What
+> moved me instead was three years of tuition already paid."*
+
+Two sentences, three components, and the substitution of one input for another.
+
+### Job two: the critique is now about the model, not about him
+v10 said *"Hargreaves Heap explains why I never looked"* — which explains **Alex**. A
+criticism of the model has to be a claim about the model:
+
+> *"The model is weaker here than it looks. It demands the right amount of searching without
+> saying what that is."*
+
+Eight words, then the citation. That is the difference between describing a limitation and
+merely illustrating one.
 
 ---
 
@@ -88,10 +124,10 @@ correct practice. Lifting a lecturer's slide is not the same thing.
 |---|---|---|---|
 | Opening | 30 | 3 | 18, **5**, 7 |
 | Action | 55 | 5 | 9, 17, **3**, 21, **5** |
-| Preferences | 45 | 3 | 14, 14, 17 |
-| Expectations/Evidence | 79 | 7 | 9, **3**, 20, **3**, 16, 12, 16 |
-| Conclusion | 65 | 4 | 10, **29**, **6**, 20 |
-| **Body** | **274** | 22 | |
+| Preferences | 42 | 3 | 14, 14, 14 |
+| Expectations/Evidence | 49 | 5 | 9, **3**, 18, **3**, 16 |
+| Conclusion | 96 | 5 | 15, 18, 25, **8**, 30 |
+| **Body** | **272** | 21 | |
 | + figure captions | 21 | | |
 | **Total** | **294** | | |
 
@@ -99,7 +135,7 @@ correct practice. Lifting a lecturer's slide is not the same thing.
 |---|---|---|---|---|
 | First-class sample | 295 | 16.4 | 7 | 23 |
 | Answer 2 (PwC) | 296 | 13.5 | 3 | 24 |
-| **v10** | **293** | **12.5** | **3** | **29** |
+| **v11** | **291** | **13.0** | **3** | **30** |
 
 Four short sentences, each at a turn: *"The way I reached it was not."* · *"A third existed."* · *"It is £37,898."* · *"I never checked."*
 
