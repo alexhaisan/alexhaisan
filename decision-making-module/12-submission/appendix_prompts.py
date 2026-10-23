@@ -20,6 +20,8 @@ PROMPTS = [
  "I mean the general layout, not exactly.",
  "Let's talk about the AI appendix. How is this supposed to look, and what are his rules around AI?",
  "Explain simply and give me a list of prompts to use in the appendix.",
+ "Now put this into a Word document the way it has to be submitted. Verdana 11, 1.5 line spacing, 2.5cm margins, like the brief says. Give each part of the model its own heading, keep the paragraphs short and easy to read, and put the figures in with a caption underneath each one. I want it to look like the examples he showed us.",
+ "Proofread this for me. Check the spelling and the grammar, and tell me anywhere it doesn't read like proper British English. Give me the corrected version and a short note on anything you change, word choice and phrasing included, so I can see what was actually wrong rather than just taking it.",
 ]
 HEADER = ("Appendix: Generative AI prompts",
  "Generative AI (Claude, Anthropic) was used during the preparation of this submission. "
