@@ -1,48 +1,68 @@
 # 03 — Draft
 
 **Decision:** Withdrew from Marshall Wace final-stage interviews, autumn 2026.
-**Status:** v8 — current. Built after the full content audit (`12-content-audit.md`) and with
+**Status:** v9 — current. Built after the full content audit (`12-content-audit.md`) and with
 two figures (`../11-figures/`).
 
 ---
 
-## Draft v8 · 273 words body, 294 with figure captions
+## Draft v9 · 274 words body, 294 with figure captions
 
 > The Psychology of Economic and Business Decisions (BUSI2051)
 > Instrumental Rational Choice application exercise
 > Word count: 294
 >
-> In autumn 2026 I withdrew from the final interview stage for a fund accountant role at
-> Marshall Wace, on a package of £120,000. Elster's Instrumental Rational Choice model shows
-> I reached a defensible decision by a route it cannot endorse.
+> In autumn 2026 I withdrew from final-round interviews for a fund accountant role at
+> Marshall Wace, worth £120,000. The decision was probably right. The way I reached it was
+> not.
 >
-> Action requires listing every option. I framed two: accept, abandoning my placement, degree
-> and ACA, or decline. A third existed. I never asked Marshall Wace to defer by eight months,
-> and only saw the option when my parents raised it afterwards. Rational decision-makers do
-> not have "I didn't think of that" moments.
+> The model asks for every option on the table. I saw two: take the job and lose my
+> placement, degree and ACA, or turn it down. A third existed. I never asked whether the firm
+> would hold the role for eight months. The possibility occurred to me when my parents raised
+> it, after I had withdrawn.
 >
-> My preferences were security, the ACA, meaningful work, and a career not narrowed at
-> twenty-one. Elster (2007) holds that preferences cannot themselves be irrational. Mine
-> simply conflicted: I disliked the audit work while wanting the credential it produces.
+> I wanted security, the ACA, work I found worthwhile, and a career I had not narrowed at
+> twenty-one. Elster (2007) treats preferences as given, so wanting the money was not the
+> error. They pulled against each other: I dislike the audit work while wanting the
+> qualification it leads to.
 >
-> I believed the gap was £80,000 a year. It is £37,898. Tapered personal allowance, National
-> Insurance and student loan absorb 54% of it, and the £40,000 bonus delivers £15,600. I
-> gathered none of this. The arithmetic took twenty minutes and I am a trainee accountant:
-> the evidence was not unavailable, it was uncollected. I also weighed £27,000 of tuition
-> already spent, which the model excludes.
+> I believed the gap was about £80,000 a year. It is £37,898. Tax, National Insurance and
+> student loan take 54% of it, and the £40,000 bonus is worth £15,600 in the hand. I never
+> checked. The sums took twenty minutes, and I am training as an accountant. I also counted
+> three years of tuition already paid, which is spent whichever way I choose.
 >
-> The analysis supports withdrawing, and that is the difficulty. Elster requires an action to
-> be caused by the beliefs that make it rational, since it is not enough to do the right
-> thing by fluke (2007, p. 191). Mine was caused by a mis-sized number, an option I never
-> generated, and a cost with no place in the model. Hargreaves Heap (1992) names the trap: I
-> could not know what the calculation would show without first doing it.
+> So the numbers support withdrawing, and that is the problem. Elster asks that an action
+> follow from the beliefs that justify it, because doing the right thing by accident is not
+> the same as reasoning well (2007, p. 191). Mine followed from a figure that was wrong, an
+> option I never thought of, and money already gone. Hargreaves Heap (1992) explains the gap:
+> I could not know the calculation mattered until I had done it.
 >
-> *Figure 1: Elster's components applied to my decision.*
-> *Figure 2: the pay gap I believed in, and the one that exists.*
+> *Figure 1: the model applied to my decision.*
+> *Figure 2: the pay gap I believed in, and the real one.*
 
 **Figures:** [`../11-figures/figure-1-irc-components.png`](../11-figures/figure-1-irc-components.png) ·
 [`../11-figures/figure-2-headline-vs-net.png`](../11-figures/figure-2-headline-vs-net.png)
-(SVG versions alongside; Word takes either.)
+
+---
+
+## ✂️ What changed in v9: the lecturer's wording is out
+
+v8 contained phrasing lifted close to the slides, most obviously *"Rational decision-makers
+do not have 'I didn't think of that' moments"*. That is the lecturer's sentence, not yours,
+and handing it back reads as recall rather than understanding.
+
+| v8 (lifted) | v9 (yours) |
+|---|---|
+| *"Rational decision-makers do not have 'I didn't think of that' moments."* | *"The possibility occurred to me when my parents raised it, after I had withdrawn."* |
+| *"Action requires listing every option."* | *"The model asks for every option on the table."* |
+| *"preferences cannot themselves be irrational"* | *"Elster (2007) treats preferences as given, so wanting the money was not the error."* |
+
+The framework is unchanged. Only the voice is. The concrete version of the deferral point is
+also **stronger** than the aphorism it replaced, because it shows the failure instead of
+naming it.
+
+**Quotations from the published readings stay**, because citing Elster and Hargreaves Heap is
+correct practice. Lifting a lecturer's slide is not the same thing.
 
 ---
 
@@ -50,12 +70,12 @@ two figures (`../11-figures/`).
 
 | Paragraph | Words | Sentences | Lengths |
 |---|---|---|---|
-| Opening | 40 | 2 | 23, 17 |
-| Action | 52 | 5 | 5, 12, **3**, 21, 11 |
-| Preferences | 38 | 3 | 15, 9, 14 |
-| Expectations/Evidence | 65 | 6 | 8, **3**, 18, 5, 19, 12 |
-| Conclusion | 78 | 4 | 9, **29**, 21, 19 |
-| **Body** | **273** | 20 | |
+| Opening | 31 | 3 | 19, **5**, 7 |
+| Action | 56 | 5 | 9, 17, **3**, 12, 15 |
+| Preferences | 49 | 3 | 18, 14, 17 |
+| Expectations/Evidence | 63 | 6 | 9, **3**, 20, **3**, 12, 16 |
+| Conclusion | 75 | 4 | 10, **29**, 18, 18 |
+| **Body** | **274** | 21 | |
 | + figure captions | 21 | | |
 | **Total** | **294** | | |
 
@@ -63,9 +83,9 @@ two figures (`../11-figures/`).
 |---|---|---|---|---|
 | First-class sample | 295 | 16.4 | 7 | 23 |
 | Answer 2 (PwC) | 296 | 13.5 | 3 | 24 |
-| **v8** | **294** | **13.7** | **3** | **29** |
+| **v9** | **294** | **13.0** | **3** | **29** |
 
-Two three-word sentences, both placed at turns: *"A third existed."* and *"It is £37,898."*
+Four short sentences, each at a turn: *"The way I reached it was not."* · *"A third existed."* · *"It is £37,898."* · *"I never checked."*
 
 ---
 
