@@ -1,47 +1,63 @@
 # 03 — Draft
 
 **Decision:** Withdrew from Marshall Wace final-stage interviews, autumn 2026.
-**Status:** v9 — current. Built after the full content audit (`12-content-audit.md`) and with
+**Status:** v10 — current. Built after the full content audit (`12-content-audit.md`) and with
 two figures (`../11-figures/`).
 
 ---
 
-## Draft v9 · 274 words body, 294 with figure captions
+## Draft v10 · 274 words body, 293 with figure captions
 
 > The Psychology of Economic and Business Decisions (BUSI2051)
 > Instrumental Rational Choice application exercise
-> Word count: 294
+> Word count: 293
 >
 > In autumn 2026 I withdrew from final-round interviews for a fund accountant role at
 > Marshall Wace, worth £120,000. The decision was probably right. The way I reached it was
 > not.
 >
 > The model asks for every option on the table. I saw two: take the job and lose my
-> placement, degree and ACA, or turn it down. A third existed. I never asked whether the firm
-> would hold the role for eight months. The possibility occurred to me when my parents raised
-> it, after I had withdrawn.
+> placement, degree and ACA, or turn it down. A third existed. I was on the phone to the
+> hiring manager and never asked whether they would hold the role for eight months. My
+> parents raised it afterwards.
 >
-> I wanted security, the ACA, work I found worthwhile, and a career I had not narrowed at
-> twenty-one. Elster (2007) treats preferences as given, so wanting the money was not the
-> error. They pulled against each other: I dislike the audit work while wanting the
-> qualification it leads to.
+> I wanted security, the ACA, worthwhile work, and a career not narrowed at twenty-one.
+> Elster (2007) treats preferences as given, so wanting the money was not the error. They
+> pulled against each other: I dislike the audit work while wanting the qualification it
+> leads to.
 >
 > I believed the gap was about £80,000 a year. It is £37,898. Tax, National Insurance and
 > student loan take 54% of it, and the £40,000 bonus is worth £15,600 in the hand. I never
-> checked. The sums took twenty minutes, and I am training as an accountant. I also counted
-> three years of tuition already paid, which is spent whichever way I choose.
+> checked. Wanting the job settled which questions felt worth asking, and the sums were not
+> among them. They would have taken twenty minutes, from someone training as an accountant.
+> I also counted three years of tuition already paid, which is spent whichever way I choose.
 >
 > So the numbers support withdrawing, and that is the problem. Elster asks that an action
 > follow from the beliefs that justify it, because doing the right thing by accident is not
-> the same as reasoning well (2007, p. 191). Mine followed from a figure that was wrong, an
-> option I never thought of, and money already gone. Hargreaves Heap (1992) explains the gap:
-> I could not know the calculation mattered until I had done it.
+> the same as reasoning well (2007, p. 191). Mine followed from none of them. Hargreaves Heap
+> (1992) explains why I never looked: I could not know the calculation mattered until I had
+> done it.
 >
-> *Figure 1: the model applied to my decision.*
-> *Figure 2: the pay gap I believed in, and the real one.*
+> *Figure 1: my decision mapped onto the model.*
+> *Figure 2: the gap I believed in, and the real one.*
 
 **Figures:** [`../11-figures/figure-1-irc-components.png`](../11-figures/figure-1-irc-components.png) ·
 [`../11-figures/figure-2-headline-vs-net.png`](../11-figures/figure-2-headline-vs-net.png)
+
+---
+
+## What changed in v10: the three weaknesses are worked, not stated
+
+Each now carries a **mechanism** instead of a fact. See
+[`14-why-the-weaknesses-are-the-answer.md`](14-why-the-weaknesses-are-the-answer.md).
+
+| Was | Now |
+|---|---|
+| *"I never checked."* and stop | *"Wanting the job settled which questions felt worth asking, and the sums were not among them."* |
+| *"I never asked whether the firm would hold the role."* | *"I was on the phone to the hiring manager and never asked."* |
+| *"Mine followed from a figure that was wrong, an option I never thought of, and money already gone."* | *"Mine followed from none of them."* — the body has already named all three, so repeating them wasted 12 words |
+
+Net change: zero. The piece is the same length and says more.
 
 ---
 
@@ -70,12 +86,12 @@ correct practice. Lifting a lecturer's slide is not the same thing.
 
 | Paragraph | Words | Sentences | Lengths |
 |---|---|---|---|
-| Opening | 31 | 3 | 19, **5**, 7 |
-| Action | 56 | 5 | 9, 17, **3**, 12, 15 |
-| Preferences | 49 | 3 | 18, 14, 17 |
-| Expectations/Evidence | 63 | 6 | 9, **3**, 20, **3**, 12, 16 |
-| Conclusion | 75 | 4 | 10, **29**, 18, 18 |
-| **Body** | **274** | 21 | |
+| Opening | 30 | 3 | 18, **5**, 7 |
+| Action | 55 | 5 | 9, 17, **3**, 21, **5** |
+| Preferences | 45 | 3 | 14, 14, 17 |
+| Expectations/Evidence | 79 | 7 | 9, **3**, 20, **3**, 16, 12, 16 |
+| Conclusion | 65 | 4 | 10, **29**, **6**, 20 |
+| **Body** | **274** | 22 | |
 | + figure captions | 21 | | |
 | **Total** | **294** | | |
 
@@ -83,7 +99,7 @@ correct practice. Lifting a lecturer's slide is not the same thing.
 |---|---|---|---|---|
 | First-class sample | 295 | 16.4 | 7 | 23 |
 | Answer 2 (PwC) | 296 | 13.5 | 3 | 24 |
-| **v9** | **294** | **13.0** | **3** | **29** |
+| **v10** | **293** | **12.5** | **3** | **29** |
 
 Four short sentences, each at a turn: *"The way I reached it was not."* · *"A third existed."* · *"It is £37,898."* · *"I never checked."*
 
