@@ -16,7 +16,7 @@
 
   <rect x="668" y="300" width="256" height="92" rx="7" fill="#595959" stroke="#3d3d3d" stroke-width="1.5"/>
   <text x="796" y="329" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="bold">Expectations</text>
-  <text x="796" y="353" text-anchor="middle" fill="#ffffff" font-size="12.5">&#8220;an £80,000 gap&#8221;</text>
+  <text x="796" y="353" text-anchor="middle" fill="#ffffff" font-size="12.5">&#8220;an £80,000 gap&#8221; &#8212; argued <tspan font-style="italic">for</tspan> it</text>
   <text x="796" y="374" text-anchor="middle" fill="#ff8f8c" font-size="12">actual: £37,898</text>
 
   <rect x="668" y="474" width="256" height="76" rx="7" fill="#595959" stroke="#3d3d3d" stroke-width="1.5"/>
@@ -24,10 +24,11 @@
   <text x="796" y="527" text-anchor="middle" fill="#ffffff" font-size="12.5">headline figures only</text>
 
   <line x1="262" y1="300" x2="378" y2="192" stroke="#3d3d3d" stroke-width="2.2" marker-end="url(#ah)"/>
-  <text x="284" y="246" fill="#3d3d3d" font-size="11.5" font-style="italic">held</text>
+  <text x="278" y="246" fill="#3d3d3d" font-size="11.5" font-style="italic">held</text>
 
-  <line x1="704" y1="300" x2="592" y2="192" stroke="#3d3d3d" stroke-width="2.2" marker-end="url(#ah)"/>
-  <text x="640" y="246" fill="#3d3d3d" font-size="11.5" font-style="italic">held</text>
+  <line x1="704" y1="300" x2="592" y2="192" stroke="#c0231f" stroke-width="2.4" marker-end="url(#ahr)"/>
+  <text x="618" y="236" fill="#c0231f" font-size="11.5" font-weight="bold">the belief argued</text>
+  <text x="618" y="252" fill="#c0231f" font-size="11.5" font-weight="bold">the other way</text>
 
   <path d="M 240 392 Q 440 478 662 498" fill="none" stroke="#c0231f" stroke-width="2.4" marker-end="url(#ahr)"/>
   <text x="286" y="532" fill="#c0231f" font-size="12.5" font-weight="bold">search stopped at the headline</text>
@@ -39,7 +40,7 @@
   <line x1="604" y1="426" x2="742" y2="432" stroke="#c0231f" stroke-width="1.2" stroke-dasharray="3,3"/>
 
   <path d="M 196 118 L 362 132" fill="none" stroke="#c0231f" stroke-width="2.6" stroke-dasharray="7,5" marker-end="url(#ahr)"/>
-  <text x="42" y="92" fill="#c0231f" font-size="13.5" font-weight="bold">Sunk cost</text>
+  <text x="42" y="92" fill="#c0231f" font-size="13.5" font-weight="bold">Sunk cost &#8212; what actually moved me</text>
   <text x="42" y="112" fill="#c0231f" font-size="11.5">£27,000 tuition already spent</text>
   <text x="42" y="132" fill="#c0231f" font-size="11.5" font-style="italic">&#8212; the model has no box for it</text>
 
