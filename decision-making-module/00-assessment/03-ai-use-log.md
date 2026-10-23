@@ -24,7 +24,57 @@ Three things follow directly from that sentence:
 > *"we will use copilot ai to proof read our final submission — make sure we note this down
 > as only copilot is allowed to do this"*
 
-Recorded. Copilot is the tool you intend to use for the final proofread.
+Recorded. Copilot is the tool you intended to use for the final proofread.
+
+### ⚠️ Where that came from — searched, 23 Oct 2026
+
+**That sentence is yours, not the module's.** I searched every uploaded file: four lecture
+decks, both set readings, all four Week 2 papers, the exemplar assessments, the marking
+rubric and the brief.
+
+| Source | Mentions Copilot? | Restricts which AI tool? |
+|---|---|---|
+| Coursework brief | No | **No** — says *"generative AI"* generically |
+| L2 slide 17 / L4 slide 18 | No | **No** — *"Use of AI is permitted… check the details on Moodle"* |
+| Marking rubric | No | **No** — the AI trait judges *how* it was used, not which tool |
+| All lectures and readings | No | No |
+
+**The only hits for "Copilot" anywhere are in this knowledge base, quoting your own first
+message.**
+
+That does **not** mean you imagined it. Many UK universities provide Microsoft Copilot with
+enterprise data protection and tell students to prefer it over consumer AI tools, usually in
+a central academic-integrity policy rather than in a module handbook. If you saw it, that is
+the most likely place.
+
+### Two different questions, and only one is settled
+
+| Question | Answer |
+|---|---|
+| **Must I declare AI use?** | **Yes**, settled. The brief requires a prompt list. |
+| **Which tools am I allowed to use?** | **Unknown.** Nothing in the module materials says. |
+
+Both lecture decks point at Moodle for *"the details"*, which is exactly where a tool
+restriction would sit if one exists.
+
+### Where to look, in order
+1. **The Moodle coursework page** — the one both decks point at
+2. The module handbook's academic integrity section
+3. The university's central AI/academic integrity policy, usually under Student Services
+4. Failing all that, email Jeremy Larner. A one-line question before submission is entirely
+   normal and much better than finding out afterwards.
+
+### If it turns out Copilot is the only sanctioned tool
+Then this is a **tool permission** problem, separate from declaration, and it is worth facing
+squarely rather than hoping. Your options would be:
+
+- **Declare honestly anyway.** The prompt list names the tool. A marker seeing an undeclared
+  breach is far worse than one seeing a declared one.
+- **Redo the drafting with the approved tool**, using your own analysis, which you now
+  thoroughly understand, and declare that.
+
+What is **not** an option is listing prompts while naming a tool you did not use. That would
+turn a possible policy breach into a deliberate misrepresentation.
 
 **One thing to check before submission, and it is worth checking properly:**
 
