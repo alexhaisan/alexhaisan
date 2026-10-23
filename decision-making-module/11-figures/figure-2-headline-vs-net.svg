@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" font-family="Verdana, Geneva, sans-serif">
-  <rect width="900" height="250" fill="#ffffff"/>
-  <text x="450" y="32" text-anchor="middle" font-size="16.5" font-weight="bold" fill="#1a1a1a">The pay gap I believed in, and the one that exists</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" font-family="Verdana, Geneva, sans-serif">
+  <rect width="900" height="300" fill="#ffffff"/>
+  <text x="450" y="36" text-anchor="middle" font-size="16.5" font-weight="bold" fill="#1a1a1a">The pay gap I believed in, and the one that exists</text>
 
-  <rect x="250" y="66" width="610" height="52" fill="#8c8c8c"/>
-  <text x="238" y="88" text-anchor="end" font-size="12.5" fill="#1a1a1a" font-weight="bold">What I believed</text>
-  <text x="238" y="107" text-anchor="end" font-size="11" fill="#666">£120,000 against £38,000</text>
-  <text x="555" y="99" text-anchor="middle" font-size="15.5" fill="#ffffff" font-weight="bold">£82,000</text>
+  <rect x="250" y="76" width="610" height="56" fill="#8c8c8c"/>
+  <text x="236" y="100" text-anchor="end" font-size="12.5" fill="#1a1a1a" font-weight="bold">What I believed</text>
+  <text x="236" y="120" text-anchor="end" font-size="11" fill="#666">£120,000 against £38,000</text>
+  <text x="555" y="111" text-anchor="middle" font-size="16" fill="#ffffff" font-weight="bold">£82,000</text>
 
-  <rect x="250" y="142" width="282" height="52" fill="#2f6b34"/>
-  <rect x="532" y="142" width="328" height="52" fill="#c0231f" fill-opacity="0.85"/>
-  <text x="238" y="164" text-anchor="end" font-size="12.5" fill="#1a1a1a" font-weight="bold">What it is</text>
-  <text x="238" y="183" text-anchor="end" font-size="11" fill="#666">after tax, NI, student loan</text>
-  <text x="391" y="175" text-anchor="middle" font-size="15.5" fill="#ffffff" font-weight="bold">£37,898</text>
-  <text x="696" y="168" text-anchor="middle" font-size="12.5" fill="#ffffff" font-weight="bold">£44,102 never arrives</text>
-  <text x="696" y="185" text-anchor="middle" font-size="11" fill="#ffffff">54% of the headline gap</text>
+  <rect x="250" y="168" width="282" height="56" fill="#2f6b34"/>
+  <rect x="532" y="168" width="328" height="56" fill="#c0231f" fill-opacity="0.85"/>
+  <text x="236" y="192" text-anchor="end" font-size="12.5" fill="#1a1a1a" font-weight="bold">What it is</text>
+  <text x="236" y="212" text-anchor="end" font-size="11" fill="#666">after tax, NI, student loan</text>
+  <text x="391" y="203" text-anchor="middle" font-size="16" fill="#ffffff" font-weight="bold">£37,898</text>
+  <text x="696" y="194" text-anchor="middle" font-size="12.5" fill="#ffffff" font-weight="bold">£44,102 never arrives</text>
+  <text x="696" y="212" text-anchor="middle" font-size="11" fill="#ffffff">54% of the headline gap</text>
 
-  <text x="450" y="228" text-anchor="middle" font-size="11.5" fill="#666" font-style="italic">Bars to scale. 2026/27 England rates; Plan 5 student loan.</text>
+  <text x="450" y="268" text-anchor="middle" font-size="11" fill="#777" font-style="italic">Bars to scale. 2026/27 England rates; Plan 5 student loan.</text>
 </svg>
