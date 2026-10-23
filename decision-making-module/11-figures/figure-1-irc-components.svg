@@ -1,60 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="680" viewBox="0 0 980 680" font-family="Verdana, Geneva, sans-serif">
-  <rect width="980" height="680" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" font-family="Verdana, Geneva, sans-serif">
+  <rect width="980" height="620" fill="#ffffff"/>
   <defs>
     <marker id="ah" markerWidth="9" markerHeight="9" refX="7.5" refY="3.2" orient="auto"><path d="M0,0 L7.5,3.2 L0,6.4 z" fill="#3d3d3d"/></marker>
     <marker id="ahr" markerWidth="9" markerHeight="9" refX="7.5" refY="3.2" orient="auto"><path d="M0,0 L7.5,3.2 L0,6.4 z" fill="#c0231f"/></marker>
   </defs>
 
-  <rect x="370" y="112" width="230" height="76" rx="7" fill="#595959" stroke="#3d3d3d" stroke-width="1.5"/>
-  <text x="485" y="141" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="bold">Action</text>
-  <text x="485" y="165" text-anchor="middle" fill="#ffffff" font-size="12.5">Withdrew from Marshall Wace</text>
+  <text x="490" y="34" text-anchor="middle" font-size="15.5" font-weight="bold" fill="#1a1a1a">The model applied to my decision</text>
 
-  <rect x="42" y="300" width="256" height="92" rx="7" fill="#595959" stroke="#3d3d3d" stroke-width="1.5"/>
-  <text x="170" y="329" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="bold">Preferences</text>
-  <text x="170" y="352" text-anchor="middle" fill="#ffffff" font-size="11.5">Security · ACA · meaningful work</text>
-  <text x="170" y="371" text-anchor="middle" fill="#ffffff" font-size="11.5">· optionality at 21</text>
+  <!-- boxes -->
+  <rect x="375" y="100" width="230" height="74" rx="7" fill="#595959"/>
+  <text x="490" y="128" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="bold">Action</text>
+  <text x="490" y="151" text-anchor="middle" fill="#ffffff" font-size="12.5">Withdrew from Marshall Wace</text>
 
-  <rect x="668" y="300" width="256" height="92" rx="7" fill="#595959" stroke="#3d3d3d" stroke-width="1.5"/>
-  <text x="796" y="329" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="bold">Expectations</text>
-  <text x="796" y="353" text-anchor="middle" fill="#ffffff" font-size="12.5">&#8220;an £80,000 gap&#8221; &#8212; argued <tspan font-style="italic">for</tspan> it</text>
-  <text x="796" y="374" text-anchor="middle" fill="#ff8f8c" font-size="12">actual: £37,898</text>
+  <rect x="40" y="290" width="250" height="88" rx="7" fill="#595959"/>
+  <text x="165" y="318" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="bold">Preferences</text>
+  <text x="165" y="340" text-anchor="middle" fill="#ffffff" font-size="11.5">Security · ACA · worthwhile work</text>
+  <text x="165" y="359" text-anchor="middle" fill="#ffffff" font-size="11.5">· career kept open</text>
 
-  <rect x="668" y="474" width="256" height="76" rx="7" fill="#595959" stroke="#3d3d3d" stroke-width="1.5"/>
-  <text x="796" y="503" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="bold">Evidence</text>
-  <text x="796" y="527" text-anchor="middle" fill="#ffffff" font-size="12.5">headline figures only</text>
+  <rect x="690" y="290" width="250" height="88" rx="7" fill="#595959"/>
+  <text x="815" y="318" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="bold">Expectations</text>
+  <text x="815" y="341" text-anchor="middle" fill="#ffffff" font-size="12">&#8220;an £80,000 gap&#8221;</text>
+  <text x="815" y="361" text-anchor="middle" fill="#ff908d" font-size="11.5">actual £37,898</text>
 
-  <line x1="262" y1="300" x2="378" y2="192" stroke="#3d3d3d" stroke-width="2.2" marker-end="url(#ah)"/>
-  <text x="278" y="246" fill="#3d3d3d" font-size="11.5" font-style="italic">held</text>
+  <rect x="690" y="458" width="250" height="72" rx="7" fill="#595959"/>
+  <text x="815" y="486" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="bold">Evidence</text>
+  <text x="815" y="509" text-anchor="middle" fill="#ffffff" font-size="12.5">headline figures only</text>
 
-  <line x1="704" y1="300" x2="592" y2="192" stroke="#c0231f" stroke-width="2.4" marker-end="url(#ahr)"/>
-  <text x="618" y="236" fill="#c0231f" font-size="11.5" font-weight="bold">the belief argued</text>
-  <text x="618" y="252" fill="#c0231f" font-size="11.5" font-weight="bold">the other way</text>
+  <!-- Preferences -> Action : held -->
+  <line x1="258" y1="290" x2="382" y2="178" stroke="#3d3d3d" stroke-width="2.2" marker-end="url(#ah)"/>
+  <text x="286" y="238" fill="#3d3d3d" font-size="11.5" font-style="italic">held</text>
 
-  <path d="M 240 392 Q 440 478 662 498" fill="none" stroke="#c0231f" stroke-width="2.4" marker-end="url(#ahr)"/>
-  <text x="286" y="532" fill="#c0231f" font-size="12.5" font-weight="bold">search stopped at the headline</text>
-  <line x1="420" y1="524" x2="446" y2="478" stroke="#c0231f" stroke-width="1.2" stroke-dasharray="3,3"/>
+  <!-- Expectations -> Action : FAILED -->
+  <line x1="722" y1="290" x2="598" y2="178" stroke="#c0231f" stroke-width="2.4" marker-end="url(#ahr)"/>
+  <text x="742" y="228" fill="#c0231f" font-size="12" font-weight="bold">this belief argued</text>
+  <text x="742" y="245" fill="#c0231f" font-size="12" font-weight="bold">for taking the job</text>
 
-  <line x1="752" y1="474" x2="752" y2="398" stroke="#c0231f" stroke-width="2.4" marker-end="url(#ahr)"/>
-  <line x1="840" y1="398" x2="840" y2="468" stroke="#3d3d3d" stroke-width="2.2" marker-end="url(#ah)"/>
-  <text x="596" y="430" text-anchor="end" fill="#c0231f" font-size="12.5" font-weight="bold">mis-sized by £42,000</text>
-  <line x1="604" y1="426" x2="742" y2="432" stroke="#c0231f" stroke-width="1.2" stroke-dasharray="3,3"/>
+  <!-- Preferences -> Evidence : FAILED -->
+  <path d="M 236 378 Q 450 462 684 486" fill="none" stroke="#c0231f" stroke-width="2.4" marker-end="url(#ahr)"/>
+  <text x="330" y="518" fill="#c0231f" font-size="12" font-weight="bold">search stopped at the headline</text>
 
-  <path d="M 196 118 L 362 132" fill="none" stroke="#c0231f" stroke-width="2.6" stroke-dasharray="7,5" marker-end="url(#ahr)"/>
-  <text x="42" y="92" fill="#c0231f" font-size="13.5" font-weight="bold">Sunk cost &#8212; what actually moved me</text>
-  <text x="42" y="112" fill="#c0231f" font-size="11.5">£27,000 tuition already spent</text>
-  <text x="42" y="132" fill="#c0231f" font-size="11.5" font-style="italic">&#8212; the model has no box for it</text>
+  <!-- Evidence <-> Expectations -->
+  <line x1="772" y1="458" x2="772" y2="384" stroke="#c0231f" stroke-width="2.4" marker-end="url(#ahr)"/>
+  <line x1="858" y1="384" x2="858" y2="452" stroke="#3d3d3d" stroke-width="2.2" marker-end="url(#ah)"/>
+  <text x="614" y="424" text-anchor="end" fill="#c0231f" font-size="12" font-weight="bold">wrong by £44,102</text>
+  <line x1="622" y1="420" x2="762" y2="424" stroke="#c0231f" stroke-width="1.1" stroke-dasharray="3,3"/>
 
-  <path d="M 772 142 L 610 150" fill="none" stroke="#c0231f" stroke-width="2.6" stroke-dasharray="7,5" marker-end="url(#ahr)"/>
-  <text x="918" y="92" text-anchor="end" fill="#c0231f" font-size="13.5" font-weight="bold">Option never generated</text>
-  <text x="918" y="112" text-anchor="end" fill="#c0231f" font-size="11.5">deferral not raised with the firm</text>
-  <text x="918" y="132" text-anchor="end" fill="#c0231f" font-size="11.5" font-style="italic">&#8212; an &#8220;I didn&#8217;t think of that&#8221; moment</text>
+  <!-- two inputs with no box -->
+  <path d="M 212 112 L 367 124" fill="none" stroke="#c0231f" stroke-width="2.6" stroke-dasharray="7,5" marker-end="url(#ahr)"/>
+  <text x="40" y="86" fill="#c0231f" font-size="13" font-weight="bold">What actually moved me</text>
+  <text x="40" y="106" fill="#c0231f" font-size="11.5">£27,000 tuition already spent</text>
+  <text x="40" y="126" fill="#c0231f" font-size="11.5" font-style="italic">the model has no box for it</text>
 
-  <text x="485" y="40" text-anchor="middle" font-size="15.5" font-weight="bold" fill="#1a1a1a">Elster&#8217;s components, applied to my decision</text>
+  <path d="M 768 130 L 613 140" fill="none" stroke="#c0231f" stroke-width="2.6" stroke-dasharray="7,5" marker-end="url(#ahr)"/>
+  <text x="940" y="86" text-anchor="end" fill="#c0231f" font-size="13" font-weight="bold">An option never generated</text>
+  <text x="940" y="106" text-anchor="end" fill="#c0231f" font-size="11.5">deferral not raised with the firm</text>
+  <text x="940" y="126" text-anchor="end" fill="#c0231f" font-size="11.5" font-style="italic">it surfaced only afterwards</text>
 
-  <line x1="42" y1="628" x2="86" y2="628" stroke="#3d3d3d" stroke-width="2.2"/>
-  <text x="94" y="632" fill="#3d3d3d" font-size="11.5">a link the model requires, which I met</text>
-  <line x1="430" y1="628" x2="474" y2="628" stroke="#c0231f" stroke-width="2.4"/>
-  <text x="482" y="632" fill="#c0231f" font-size="11.5">a link that failed</text>
-  <line x1="650" y1="628" x2="694" y2="628" stroke="#c0231f" stroke-width="2.6" stroke-dasharray="7,5"/>
-  <text x="702" y="632" fill="#c0231f" font-size="11.5">an input the model excludes</text>
+  <!-- key -->
+  <line x1="40" y1="580" x2="82" y2="580" stroke="#3d3d3d" stroke-width="2.2"/>
+  <text x="90" y="584" fill="#3d3d3d" font-size="11.5">a link the model needs, which held</text>
+  <line x1="390" y1="580" x2="432" y2="580" stroke="#c0231f" stroke-width="2.4"/>
+  <text x="440" y="584" fill="#c0231f" font-size="11.5">a link that failed</text>
+  <line x1="610" y1="580" x2="652" y2="580" stroke="#c0231f" stroke-width="2.6" stroke-dasharray="7,5"/>
+  <text x="660" y="584" fill="#c0231f" font-size="11.5">an input the model excludes</text>
 </svg>
