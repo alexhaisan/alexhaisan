@@ -1,49 +1,50 @@
 # 03 — Draft
 
-**Decision:** iPhone 17 Pro, bought on release day, £1,099 (256GB).
-**Status:** v6 — current. Quantification added after analysing Answer 2
-(`10-answer-two-analysis.md`).
+**Decision:** Withdrew from Marshall Wace final-stage interviews, autumn 2026.
+**Status:** v7 — current. Scenario switched from the iPhone purchase.
 
 ---
 
-## Draft v6 · 288 words
+## Draft v7 · 290 words
 
 > The Psychology of Economic and Business Decisions (BUSI2051)
 > Instrumental Rational Choice application exercise
-> Word Count: 288
+> Word Count: 290
 >
-> On release day I bought an iPhone 17 Pro for £1,099, when a battery repair would have cost
-> £150. Elster's Instrumental Rational Choice (IRC) model shows where that decision parted
-> from its prediction.
+> In autumn 2026 I withdrew from the final interview stage for a fund accountant role at
+> Marshall Wace, on a package of £120,000. Elster's Instrumental Rational Choice (IRC) model
+> shows I reached a defensible decision by a route it cannot endorse.
 >
-> Action requires listing every option available, and mine was unusually complete. Alongside
-> the Pro I weighed two battery repairs, official and aftermarket, a price drop on the iPhone
-> 16 Pro, and the standard iPhone 17. I ruled out a cheaper Samsung flagship on switching
-> costs.
+> Action requires listing every available option. I compared two: accept, or continue my PwC
+> apprenticeship and qualify as a chartered accountant. Accepting meant abandoning my final
+> placement, failing the degree, and forfeiting both the qualification and the graduate offer.
 >
-> My preferences were a working phone, no slowness, no parts of unknown provenance, and the
-> standing that comes with owning the newest model. Elster (2007) holds that preferences
-> cannot themselves be irrational, and wanting status is no exception. Holding every one of
-> them constant, the model still predicts the repair.
+> My preferences were financial security, the ACA qualification, work I found meaningful, and
+> a career not yet narrowed at twenty-one. Elster (2007) holds that preferences cannot
+> themselves be irrational. Mine simply conflicted: I disliked the audit work while wanting
+> the credential it produces.
 >
-> My expectations were accurate too: I expected the Pro to be fast and dependable, and it is.
-> I also expected the novelty to fade inside a week, because it has faded inside a week every
-> previous time. The £949 premium therefore bought about seven days of standing, at roughly
-> £135 a day. Neither belief was bent by what I wanted.
+> I believed the gap was roughly £80,000 a year. It is £37,898. Tapered personal allowance,
+> National Insurance and student loan absorb 54% of the apparent difference, and the £40,000
+> bonus delivers £15,600. Set against sixty-hour weeks rather than forty, the threefold
+> headline becomes 1.5 on net hourly pay.
 >
-> The deviation sits at evidence. Over several months I gathered keynotes, pre-release rumour
-> and benchmark reviews, all of it concerning what the phone could do. Wanting it settled
-> which question I asked. The search fixed my expectation of performance precisely, and left
-> untouched the expectation that actually decided the case.
+> I gathered none of this. The figures took twenty minutes, and I am a trainee accountant
+> studying for the ACA. The evidence was not unavailable; it was uncollected. I also weighed
+> three years of tuition already spent, which IRC excludes, since sunk costs are not outcomes
+> of this choice.
 >
-> Elster requires evidence to result from an optimal investment in information gathering, yet
-> concedes that this optimum is indeterminate (2007, pp. 191, 208). The model can show that I
-> searched in the wrong place, but not how long I should have searched. That limitation is
-> the model's rather than mine.
+> The analysis supports withdrawing, and that is the difficulty. Elster requires an action to
+> be caused by the beliefs that make it rational, because it is not enough to do the right
+> thing by fluke (2007, p. 191). Mine was caused by a mis-sized number and a cost the model
+> forbids. Hargreaves Heap (1992) names the trap: I could not know what the calculation would
+> show without first doing it.
 >
-> **Reference**
+> **References**
 > Elster, J. (2007) *Explaining Social Behavior: More Nuts and Bolts for the Social
 > Sciences*. Cambridge: Cambridge University Press.
+> Hargreaves Heap, S., Hollis, M., Lyons, B., Sugden, R. and Weale, A. (1992) *The Theory of
+> Choice: A Critical Guide*. Oxford: Blackwell.
 
 ---
 
@@ -51,157 +52,126 @@
 
 | Paragraph | Words | Sentences | Lengths |
 |---|---|---|---|
-| Opening | 33 | 2 | 19, 14 |
-| Action | 45 | 3 | 11, 24, 10 |
-| Preferences | 50 | 3 | 23, 15, 12 |
-| Expectations | 60 | 4 | 17, 20, 15, 8 |
-| Evidence | 50 | 4 | 5, 20, 7, 18 |
-| Conclusion | 50 | 3 | 23, 19, 8 |
-| **Body** | **288** | 19 | |
+| Opening | 41 | 2 | 23, 18 |
+| Action | 39 | 3 | 6, 15, 18 |
+| Preferences | 43 | 3 | 20, 9, 14 |
+| Expectations | 48 | 4 | 9, **3**, 20, 16 |
+| Evidence | 49 | 4 | 5, 15, 8, 21 |
+| Conclusion | 70 | 4 | 9, **29**, 13, 19 |
+| **Body** | **290** | 20 | |
 
 | | Words | Mean | Min | Max |
 |---|---|---|---|---|
 | First-class sample | 295 | 16.4 | 7 | 23 |
 | Answer 2 (PwC) | 296 | 13.5 | 3 | 24 |
-| **Our v6** | **288** | **15.2** | **5** | **24** |
+| **v7** | **290** | **14.5** | **3** | **29** |
 
-Sits between the two samples on every measure.
+> **"It is £37,898."** Three words, placed immediately after the false belief. It is the
+> hinge of the piece and the shortest sentence in it.
 
----
-
-## What v6 adds
-
-### The quantification · Answer 2's best move, applied here
-
-Answer 2's strongest single passage is its tax-NI-rent calculation showing a £3,000 pay rise
-*"cancelled out"*. We had the raw material for an equivalent and were not using it:
-
-> *"The £949 premium therefore bought about seven days of standing, at roughly £135 a day."*
-
-£1,099 − £150 = £949. Divided by the one week Alex himself predicted the novelty would last.
-
-Fifteen words. It makes the expected-utility comparison concrete, evidences the module's
-numeracy outcome, and lands at the exact point where the argument turns. It is also the kind
-of number a marker remembers.
-
-### Trims that paid for it
-- *Action*: *"on the real costs of switching operating systems"* → *"on switching costs"*
-- *Preferences*: *"freedom from slowness and from parts of unknown provenance"* → *"no
-  slowness, no parts of unknown provenance"*
-- *Evidence*: *"keynote presentations"* → *"keynotes"*; *"every piece of which concerned"* →
-  *"all of it concerning"*
-
-Net: +5 words for a considerably stronger paragraph.
+### If the reference list counts toward the 300
+Body is 290; two references add 33. **Drop the reference list, keep the in-text citations.**
+The first-class sample did exactly that and scored a first. Do not cut the Hargreaves Heap
+sentence itself — it is the only critique of IRC in the piece, and Trait 2's 70-79 band
+requires one.
 
 ---
 
-## Where this draft now stands against both samples
+## The thesis, and why it is unusual
 
-| | First-class | Answer 2 | **v6** |
-|---|---|---|---|
-| Scenario complexity | Low | **High** | Low |
-| Quantified trade-off | ✗ | **✓✓** | **✓** |
-| Interactions | 2, in conclusion | **3, labelled** | 2, in prose |
-| Critique of IRC | ✓ asserted | ✗ **none** | **✓ sourced** |
-| Citation + reference | in-text only | ✗ none | **✓ both** |
-| Action analysed | ✗ described only | partly | **✓** |
-| Expectations finding | wishful thinking | false beliefs | **accurate, acted against** |
-| Prose quality | good | poor | good |
+**You turned Marshall Wace down. The analysis says that was probably right. That is the
+finding, not an obstacle to it.**
 
-The one axis we cannot win is **scenario complexity**, and that was fixed the moment the
-decision was chosen. Everything else is now at or above both samples.
+IRC judges the process, not the outcome. Elster (2007, p. 191):
+
+> *"The action, for instance, should be **caused by** the beliefs that make it a rational one;
+> **it is not enough to do the right thing by fluke**."*
+
+The arrows in Figure 11.1 carry **causality as well as optimality**. Your action was caused by
+a belief that was wrong by a factor of two, and by a sunk cost the model excludes. The beliefs
+that would have justified it were never formed.
+
+This is Elster's point about Weber (p. 192): deviation from the rational course is a
+**sufficient** condition for irrationality, not a **necessary** one. You can land on the right
+action and still have failed the model.
+
+**Almost nobody in the cohort will have this.** The obvious answers are "I was irrational and
+chose badly" or "wishful thinking". Yours is a correct action reached by a process the model
+rejects, which is harder to spot and much harder to argue.
+
+---
+
+## How it maps to Elster's three requirements (2007, p. 191)
+
+| | Requirement | Status |
+|---|---|---|
+| (iii) | Evidence from an **optimal investment** in information gathering | ❌ **Failed.** Twenty minutes of arithmetic, not done, on a six-figure decision. |
+| (ii) | Beliefs best supported, **given evidence** | ❌ **Failed.** £80,000 believed; £37,898 actual. |
+| (i) | Action optimal, **given beliefs** | ⚠️ **Arguably satisfied by accident.** The £80,000 belief pointed *towards* accepting. You declined anyway, on a consideration the model forbids. |
+
+That third row is the interesting one. Your stated belief argued **for** Marshall Wace. You
+went the other way. So the action did not follow from the belief either.
+
+---
+
+## The interactions (marking criterion 2)
+
+Two, both explicit in the draft:
+
+| Interaction | Where |
+|---|---|
+| **Evidence → Expectations** | Headline figures, uncorrected by available arithmetic, produced a belief wrong by £42,000 |
+| **Sunk cost → Action** | Three years of tuition entered as a reason, bypassing the consequentialist requirement entirely |
+
+> The second is not a normal arrow in Figure 11.1, and that is precisely the point: it is an
+> input the model has no slot for.
+
+---
+
+## The critique of IRC (Trait 2's 70+ gate)
+
+Hargreaves Heap (1992, p. 15, §The Limits of Instrumental Rationality) asks how an agent can
+know the marginal benefit of further information **without already having it**:
+
+> *"from a point just below the summit of the foothills, there may seem little advantage in
+> climbing to the top. Yet an aerial photograph would reveal that the tops of the mountains
+> which lie beyond the foothills afford unimaginably better views."*
+
+That is exactly what happened. The twenty-minute calculation looked unnecessary **because the
+headline seemed decisive**, and only doing it reveals that it was not. IRC demands an optimal
+investment in information while providing no way to identify one in advance.
+
+This is a critique of the **model**, sourced to set reading, tied to the component where the
+deviation sits. It is what the iPhone draft was missing.
+
+---
+
+## One open question
+
+Did you **ask Marshall Wace about deferring** the start by eight months, or did you assume
+they would not?
+
+You wrote *"it is unlikely Marshall Wace will offer me a job to join in 8 months"* — and you
+had the hiring manager on the phone when you withdrew.
+
+- **If you asked and they said no:** it is a tested constraint. Leave the draft as it is.
+- **If you assumed:** that is a third deviation, at **Action** — an option excluded without
+  testing, while the one person who could answer was on the call. L1 slide 23: *"violations at
+  this step often involve unconscious restriction of available possible choices."*
+
+Worth roughly fifteen words and it would complete all four components. Tell me which and I
+will place it.
 
 ---
 
 ## Version history
 
-| Version | Words | Change |
-|---|---|---|
-| v1 | 251 | First draft. Wrongly claimed official Apple repair *"never entered the set"*. |
-| v2 | 258 | **Correction:** both repair routes were known. Rebuilt around elimination. |
-| v3 | 250 | Restored the interaction sentence v2 dropped; cut a duplication. |
-| v4 | 248 | Added a sourced critique of IRC and a second interaction. |
-| v5 | 283 | **Rebuilt as flowing prose** after the first-class sample. |
-| **v6** | **288** | **Quantified the trade-off**, after Answer 2. |
+| Version | Scenario | Words | Change |
+|---|---|---|---|
+| v1–v4 | iPhone 17 Pro | 248–258 | Labelled headings; built to the exemplars |
+| v5 | iPhone | 283 | Rebuilt as prose after the first-class sample |
+| v6 | iPhone | 288 | Quantified the trade-off after Answer 2 |
+| **v7** | **Marshall Wace** | **290** | **Scenario switched.** Complex, irreversible, six-figure, with a real analytical finding |
 
----
-
-## Why the argument runs this way
-
-### The strongest thing in Alex's material
-
-> *"the novelty of having the new phone would have only lasted the first week… as all phones
-> you become used to it and have it replace the next benchmark or expectation."*
-
-**He knew in advance.** The belief was accurate and held at the moment of choosing. That rules
-out the easy answers:
-
-| Not available as the deviation | Why |
-|---|---|
-| Wishful thinking | He did **not** believe the novelty would last. He said the opposite. |
-| A mistaken belief | Both expectations were correct: daily use, one-week novelty. |
-| "I wanted clout, which is irrational" | L1 s25 — preferences cannot be intrinsically irrational. Status is admissible. |
-| "I went against my preferences" | L2 s5 — not a compelling argument. |
-| A restricted option set | He considered official repair, aftermarket repair, waiting, the non-Pro, and Samsung. |
-| The Samsung rejection | Ecosystem lock-in and OS switching costs are **constraints**; peer norms are a **preference**. Neither is a deviation. |
-
-### Elster's three requirements (2007, p. 191)
-
-| | Requirement | Status |
-|---|---|---|
-| (ii) | Beliefs best supported, given evidence | ✅ **Met.** Both expectations accurate. |
-| (iii) | Evidence from an **optimal investment** in gathering | ❌ **Failed.** Substantial, and misdirected. |
-| (i) | Action optimal, **given beliefs** | ❌ **Failed.** The action did not follow. |
-
-The (iii) failure is the unusual one. This is not "I didn't research enough" — he researched
-enormously. The investment was **large and pointed at the wrong question**: months of material
-on capability, nothing on duration, when duration decided the case. L1 s29 exactly:
-*"evidence is over- or under-valued."*
-
-### Why the complete option set helps rather than hurts
-
-With nothing missing from Action, the piece can isolate the gap **by elimination** rather than
-by assertion:
-
-> *"My option set was complete and both expectations proved accurate, which isolates the gap
-> at Evidence."*
-
-That single sentence answers L2 s6, demonstrates understanding of the other three components
-by showing they are clean, and makes the Evidence claim unavoidable. A restricted option set
-would have been the easier story to tell. Not having one produces the better answer.
-
-### The interaction (criterion 2)
-
-Elster permits desires to reach beliefs **through** evidence-gathering: desires as the
-*grandfather*, never the *father*, of beliefs (2007, p. 205 n. 12). Here the desire went
-further and determined **which question was asked at all**. The search was aimed at
-capability, never at valuation, so it could not have returned a disconfirming answer. The
-short-term preference therefore arrived at the point of choice fully evidenced, while the
-long-term one arrived bare.
-
-That chains **Preferences → Evidence → Action**, and it is what L3 s16 means by
-*"long term vs short term"*.
-
----
-
-## On the citation
-
-**Not required.** None of the four exemplars cites anything, and the intermediate task says
-nothing about literature. The literature instruction belongs to the December essay.
-
-**Included anyway**, because it costs about 15 words, the module format spec mandates Harvard
-style, and it covers the case where the marker works from the full question. It is placed
-where it does analytical work: the claim about optimal investment in information gathering is
-Elster's, so it is attributed.
-
-If the word count gets tight, this is the first thing to cut.
-
----
-
-## Outstanding
-
-- [ ] Confirm on Moodle whether the reference list counts toward the 300
-- [ ] Check the AI-use details page L4 s18 points to
-- [ ] Format: Verdana 11pt, 1.5 spacing, 2.5cm margins, whole document
-- [ ] AI appendix (`../00-assessment/03-ai-use-log.md`)
-- [ ] Read aloud, then proof for errors only
+> The v6 iPhone draft is preserved in git history (commit `f45474c`) as a complete,
+> submittable fallback.
